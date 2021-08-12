@@ -1,0 +1,35 @@
+{
+    "cards": [
+    {
+        "prompt": "あ",
+        "answer_part_1": "a",
+        "answer_part_2": "a as in c(a)t"
+    },
+    {
+        "prompt": "か",
+        "answer_part_1": "ka",
+        "answer_part_2": "ka as in (ca)ptain"
+    },
+    {
+        "prompt": "か2",
+        "answer_part_1": "ka2",
+        "answer_part_2": "ka as in (ca)ptain"
+    },    {
+        "prompt": "か3",
+        "answer_part_1": "ka3",
+        "answer_part_2": "ka as in (ca)ptain"
+    },    {
+        "prompt": "か4",
+        "answer_part_1": "ka4",
+        "answer_part_2": "ka as in (ca)ptain"
+    },    {
+        "prompt": "か5",
+        "answer_part_1": "ka5",
+        "answer_part_2": "ka as in (ca)ptain"
+    },    {
+        "prompt": "か6",
+        "answer_part_1": "ka6",
+        "answer_part_2": "ka as in (ca)ptain"
+    }
+    ]
+}
