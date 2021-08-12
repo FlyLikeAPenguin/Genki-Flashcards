@@ -29,10 +29,10 @@ class App extends Component {
 
     this.database.on("child_added", (snap) => {
       currentCards.push({
-        id: snap.key,
-        prompt: snap.val().prompt,
-        answer_part_1: snap.val().answer_part_1,
-        answer_part_2: snap.val().answer_part_2,
+        Definition: snap.val().Definition,
+        Lesson: snap.val().Lesson,
+        Reading: snap.val().Reading,
+        Kanji: snap.val().Kanji,
       });
 
       this.setState({
@@ -65,9 +65,9 @@ class App extends Component {
       <div className="App">
         <div className="cardRow">
           <Card
-            prompt={this.state.currentCard.prompt}
-            answer_part_1={this.state.currentCard.answer_part_1}
-            answer_part_2={this.state.currentCard.answer_part_2}
+            Kanji={this.state.currentCard.Kanji}
+            Definition={this.state.currentCard.Definition}
+            Reading={this.state.currentCard.Reading}
           />
         </div>
         <div className="buttonRow">

@@ -5,12 +5,12 @@ const Card = (props) => (
   <div className="card-container">
     <div className="card">
       <div className="front">
-        <div className="prompt-text">{props.prompt}</div>
+        <div className="Kanji">{props.Kanji}</div>
       </div>
 
       <div className="back">
-        <div className="answer-part1">{props.answer_part_1}</div>
-        <div className="answer-part2">{props.answer_part_2}</div>
+        <div className="Reading">{props.Reading}</div>
+        <div className="Definition">{props.Definition}</div>
       </div>
     </div>
   </div>
