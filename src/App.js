@@ -10,7 +10,7 @@ class App extends Component {
   constructor(props) {
     super(props);
 
-    if (firebase.apps.length === 0) {
+    if (!firebase.apps.length) {
       firebase.initializeApp(DB_CONFIG);
     }
     this.database = firebase.database().ref().child("cards");
@@ -22,7 +22,7 @@ class App extends Component {
     };
   }
 
-  componentWillMount() {
+  componentDidMount() {
     console.log(firebase.database().ref().child("cards"));
 
     const currentCards = this.state.cards;
@@ -42,11 +42,11 @@ class App extends Component {
     });
   }
 
-  getRandomCard(cards) {
-    var randomIndex = Math.floor(Math.random() * cards.length);
-    var card = cards[randomIndex];
+  getRandomCard(currentCards) {
+    var randomIndex = Math.floor(Math.random() * currentCards.length);
+    var card = currentCards[randomIndex];
     if (card === this.state.currentCard) {
-      this.getRandomCard(cards);
+      this.getRandomCard(currentCards);
     }
 
     return card;
