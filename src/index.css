@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: typeface-roboto, BlinkMacSystemFont, "Segoe UI", "Roboto",
+  font-family: BlinkMacSystemFont, "Segoe UI", "Roboto",
     "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -10,6 +10,6 @@ body {
 }
 
 code {
-  font-family: typeface-roboto, Menlo, Monaco, Consolas, "Courier New",
+  font-family: Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
