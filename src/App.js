@@ -19,17 +19,13 @@ class App extends Component {
     this.updateCard = this.updateCard.bind(this);
 
     this.state = {
-      cards: [],
       currentCard: {},
     };
   }
 
   componentDidMount() {
-    const currentCards = this.state.cards;
-
     this.setState({
-      cards: currentCards,
-      currentCard: this.getRandomCard(currentCards),
+      currentCard: this.getRandomCard(),
     });
   }
 
@@ -41,17 +37,15 @@ class App extends Component {
     var randomIndex = Math.floor(Math.random() * currentCards.length);
     var card = currentCards[randomIndex];
     if (card === this.state.currentCard) {
-      this.getRandomCard(currentCards);
+      this.getRandomCard();
     }
 
     return card;
   }
 
   updateCard() {
-    const currentCards = this.state.cards;
     this.setState({
-      cards: currentCards,
-      currentCard: this.getRandomCard(currentCards),
+      currentCard: this.getRandomCard(),
     });
   }
 
