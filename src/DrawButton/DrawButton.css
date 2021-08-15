@@ -1,16 +1,17 @@
 .btn {
   font-size: 1.5em;
   border: none;
-  width: 200px;
-  height: 70px;
+  width: 170px;
+  height: 50px;
   display: block;
   text-align: center;
   text-decoration: none;
   color: #ecf0f1;
-  box-shadow: 0px 6px #2c3e50;
+  box-shadow: 0px 4px #2c3e50;
   background: #34495e;
   margin: auto;
-  margin-top: 20px;
+  margin-top: 2%;
+  cursor: auto;
 }
 
 .btn:active {

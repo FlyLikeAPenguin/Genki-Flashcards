@@ -1,43 +1,55 @@
-.card-container {
+.card {
   cursor: pointer;
   height: 600px;
   width: 600px;
-  perspective: 800px;
   position: relative;
-  margin: auto;
   transition: ease-in;
+  margin: auto;
   margin-top: 50px;
+
+  perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 
-.card {
-  height: 600px;
-  width: 600px;
-  position: absolute;
-  border: 1px solid #300;
+/* This container is needed to position the front and back side */
+.card-inner {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
   transform-style: preserve-3d;
-  transition: all 0.4s ease-in-out;
+  position: relative;
 }
 
-.card:hover {
-  transform: rotateY(180deg);
-  transition: all 0.4s ease-in-out;
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.card:hover .card-inner {
+  transform: rotateY(-180deg);
 }
 
-.card .front {
-  height: 600px;
-  width: 600px;
-  backface-visibility: hidden;
+/* Position the front and back side */
+.card-front,
+.card-back {
   position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.card-front {
+  background-color: rgba(255, 251, 251, 1);
+  color: black;
+  box-shadow: 1em 1em 2em rgba(0, 0, 0, 0.2);
+}
+
+/* Style the back side */
+.card-back {
+  backface-visibility: hidden;
   overflow: hidden;
   text-align: center;
   background-color: rgba(255, 251, 251, 1);
-}
-
-.card .back {
-  height: 600px;
-  width: 600px;
-  text-align: center;
-  transform: rotateY(180deg);
+  transform: rotateY(-180deg);
+  box-shadow: 2em 1em 1em rgba(0, 0, 0, 0.2);
 }
 
 .kanji {
