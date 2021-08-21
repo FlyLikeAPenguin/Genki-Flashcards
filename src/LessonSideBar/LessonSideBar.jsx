@@ -1,5 +1,4 @@
 import React from "react";
-import Lesson from "./Lesson";
 import "./LessonSideBar.css";
 
 const LessonSideBar = (props) => (

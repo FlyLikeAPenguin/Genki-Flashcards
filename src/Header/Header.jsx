@@ -1,5 +1,5 @@
 import React from "react";
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
+import { AiFillGithub } from "react-icons/ai";
 import "./Header.css";
 
 const Header = () => (
