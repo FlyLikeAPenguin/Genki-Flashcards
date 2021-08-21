@@ -1,6 +1,9 @@
 /* Add a black background color to the top navigation */
 .topnav {
   overflow: hidden;
+  background-color: rgb(66, 71, 77);
+  padding-bottom: 12px;
+  position: relative;
 }
 
 .topnav li {
@@ -17,8 +20,8 @@
 }
 
 .icon {
-  vertical-align: bottom;
-  font-size: 2rem;
+  vertical-align: baseline;
+  font-size: 1.3rem;
 }
 
 .topnav-right {

@@ -1,11 +1,12 @@
 .side-lessons {
-  padding: 0;
   width: 200px;
   position: fixed;
-  height: 90%;
+  height: 100%;
   overflow-x: hidden;
-  margin-top: 10px;
-  margin-left: 23px;
+  padding-top: 10px;
+  list-style-type: none;
+  background-color: rgb(66, 71, 77);
+  margin-top: auto;
 }
 
 .lesson-list-item {
@@ -13,7 +14,9 @@
   font-size: 1.4rem;
   color: #818181;
   text-align: left;
+  padding-top: 6px;
 }
+
 .side-lessons::-webkit-scrollbar {
   width: 12px; /* width of the entire scrollbar */
 }
