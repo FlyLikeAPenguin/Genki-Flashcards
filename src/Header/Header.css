@@ -1,0 +1,35 @@
+/* Add a black background color to the top navigation */
+.topnav {
+  overflow: hidden;
+}
+
+.topnav li {
+  list-style-type: none;
+}
+
+/* Style the links inside the navigation bar */
+.topnav-bold {
+  float: left;
+  color: #d3d0d0;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.icon {
+  vertical-align: bottom;
+  font-size: 2rem;
+}
+
+.topnav-right {
+  float: right;
+  padding-right: 2rem;
+  font-weight: normal;
+}
+
+.topnav-light {
+  font-weight: lighter;
+  color: #d3d0d0;
+  text-decoration: none;
+  font-size: 1.3rem;
+}

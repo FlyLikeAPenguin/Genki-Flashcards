@@ -1,0 +1,29 @@
+.side-lessons {
+  padding: 0;
+  width: 200px;
+  position: fixed;
+  height: 90%;
+  overflow-x: hidden;
+  margin-top: 10px;
+  margin-left: 23px;
+}
+
+.lesson-list-item {
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: #818181;
+  text-align: left;
+}
+.side-lessons::-webkit-scrollbar {
+  width: 12px; /* width of the entire scrollbar */
+}
+
+.side-lessons::-webkit-scrollbar-track {
+  background: transparent; /* color of the tracking area */
+}
+
+.side-lessons::-webkit-scrollbar-thumb {
+  background-color: rgb(198, 199, 190); /* color of the scroll thumb */
+  border-radius: 20px; /* roundness of the scroll thumb */
+  border: 3px solid transparent; /* creates padding around scroll thumb */
+}

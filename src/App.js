@@ -3,6 +3,8 @@ import Card from "./Card/Card";
 import "./App.css";
 import DrawButton from "./DrawButton/DrawButton";
 import cards from "./Data/cards.json";
+import LessonSideBar from "./LessonSideBar/LessonSideBar";
+import Header from "./Header/Header";
 
 const lessonNumbers = Array.from(new Set(cards.map((x) => x.Lesson))).sort(
   (a, b) => a - b
@@ -21,6 +23,10 @@ class App extends Component {
     this.state = {
       currentCard: {},
     };
+  }
+
+  activeLessons() {
+    return lessons.filter((x) => x.active);
   }
 
   componentDidMount() {
@@ -52,6 +58,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <Header />
+        <LessonSideBar activeLessons={this.activeLessons()} lessons={lessons} />
         <div className="cardRow">
           <Card
             Kanji={this.state.currentCard.Kanji}
