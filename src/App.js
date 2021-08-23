@@ -27,6 +27,17 @@ class App extends Component {
     };
   }
 
+  setActiveLessons(activelessons) {
+    this.disableAllLessons();
+    activelessons.forEach(
+      (x) => (this.state.lessons.find((y) => y.number === x).active = true)
+    );
+  }
+
+  disableAllLessons() {
+    this.state.lessons.forEach((x) => (x.active = false));
+  }
+
   toggleAllLessons() {
     // If we currently have no active lessons, make them all active.
     const active = this.activeLessons().length === 0;
@@ -60,9 +71,25 @@ class App extends Component {
   }
 
   componentDidMount() {
+    const persistState = sessionStorage.getItem("active-lessons");
+    console.log(persistState);
+    if (persistState) {
+      try {
+        this.setActiveLessons(JSON.parse(persistState).map((x) => x.number));
+      } catch (e) {
+        // is not json
+      }
+    }
     this.setState({
       currentCard: this.getRandomCard(),
     });
+  }
+
+  componentDidUpdate() {
+    sessionStorage.setItem(
+      "active-lessons",
+      JSON.stringify(this.activeLessons())
+    );
   }
 
   render() {
