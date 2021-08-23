@@ -9,40 +9,44 @@ import Header from "./Header/Header";
 const lessonNumbers = Array.from(new Set(cards.map((x) => x.Lesson))).sort(
   (a, b) => a - b
 );
-const lessons = lessonNumbers.map((n) => ({
-  number: n,
-  active: true,
-  cards: cards.filter((k) => k.Lesson === n),
-}));
 
 class App extends Component {
   constructor(props) {
     super(props);
     this.updateCard = this.updateCard.bind(this);
+    this.toggleAllLessons = this.toggleAllLessons.bind(this);
 
     this.state = {
       currentCard: {},
+
+      lessons: lessonNumbers.map((n) => ({
+        number: n,
+        active: true,
+        cards: cards.filter((k) => k.Lesson === n),
+      })),
     };
   }
 
-  activeLessons() {
-    return lessons.filter((x) => x.active);
+  toggleAllLessons() {
+    // If we currently have no active lessons, make them all active.
+    const active = this.activeLessons().length === 0;
+    this.state.lessons.forEach((x) => (x.active = active));
+    this.updateCard();
   }
 
-  componentDidMount() {
-    this.setState({
-      currentCard: this.getRandomCard(),
-    });
+  activeLessons() {
+    return this.state.lessons.filter((x) => x.active);
   }
 
   getRandomCard() {
-    var currentCards = lessons
+    var currentCards = this.state.lessons
       .filter((l) => l.active === true)
       .map((x) => x.cards)
       .flat();
+
     var randomIndex = Math.floor(Math.random() * currentCards.length);
     var card = currentCards[randomIndex];
-    if (card === this.state.currentCard) {
+    if (card === this.state.currentCard && card != null) {
       this.getRandomCard();
     }
 
@@ -55,16 +59,26 @@ class App extends Component {
     });
   }
 
+  componentDidMount() {
+    this.setState({
+      currentCard: this.getRandomCard(),
+    });
+  }
+
   render() {
     return (
       <div className="App">
         <Header />
-        <LessonSideBar activeLessons={this.activeLessons()} lessons={lessons} />
+        <LessonSideBar
+          activeLessons={this.activeLessons()}
+          lessons={this.state.lessons}
+          toggleAllLessons={this.toggleAllLessons}
+        />
         <div className="cardRow">
           <Card
-            Kanji={this.state.currentCard.Kanji}
-            Definition={this.state.currentCard.Definition}
-            Reading={this.state.currentCard.Reading}
+            Kanji={this.state.currentCard?.Kanji}
+            Definition={this.state.currentCard?.Definition}
+            Reading={this.state.currentCard?.Reading}
           />
         </div>
         <div className="buttonRow">

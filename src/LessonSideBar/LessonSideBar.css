@@ -5,16 +5,8 @@
   overflow-x: hidden;
   padding-top: 10px;
   list-style-type: none;
-  background-color: rgb(66, 71, 77);
+  background-color: rgb(57, 61, 66);
   margin-top: auto;
-}
-
-.lesson-list-item {
-  text-decoration: none;
-  font-size: 1.4rem;
-  color: #818181;
-  text-align: left;
-  padding-top: 6px;
 }
 
 .side-lessons::-webkit-scrollbar {
