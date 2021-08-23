@@ -71,7 +71,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    const persistState = sessionStorage.getItem("active-lessons");
+    const persistState = localStorage.getItem("active-lessons");
     console.log(persistState);
     if (persistState) {
       try {
@@ -86,7 +86,7 @@ class App extends Component {
   }
 
   componentDidUpdate() {
-    sessionStorage.setItem(
+    localStorage.setItem(
       "active-lessons",
       JSON.stringify(this.activeLessons())
     );
