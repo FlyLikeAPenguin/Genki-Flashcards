@@ -3,7 +3,7 @@
       "Definition":"one",
       "Lesson":3,
       "Reading":"イチ; イッ; ひと",
-      "Kanji":"一",
+      "Prompt":"一",
       "Examples":[
          {
             "Definition":"one",
@@ -101,7 +101,7 @@
       "Definition":"two",
       "Lesson":3,
       "Reading":"ニ; ふた",
-      "Kanji":"二",
+      "Prompt":"二",
       "Examples":[
          {
             "Definition":"two",
@@ -154,7 +154,7 @@
       "Definition":"three",
       "Lesson":3,
       "Reading":"サン; みっ",
-      "Kanji":"三",
+      "Prompt":"三",
       "Examples":[
          {
             "Definition":"three",
@@ -217,7 +217,7 @@
       "Definition":"four",
       "Lesson":3,
       "Reading":"よん; よ; よっ; シ",
-      "Kanji":"四",
+      "Prompt":"四",
       "Examples":[
          {
             "Definition":"four",
@@ -250,7 +250,7 @@
       "Definition":"five",
       "Lesson":3,
       "Reading":"ゴ; いつ",
-      "Kanji":"五",
+      "Prompt":"五",
       "Examples":[
          {
             "Definition":"five",
@@ -278,7 +278,7 @@
       "Definition":"six",
       "Lesson":3,
       "Reading":"ロク; ロッ; むっ",
-      "Kanji":"六",
+      "Prompt":"六",
       "Examples":[
          {
             "Definition":"six",
@@ -316,7 +316,7 @@
       "Definition":"seven",
       "Lesson":3,
       "Reading":"シチ; なな",
-      "Kanji":"七",
+      "Prompt":"七",
       "Examples":[
          {
             "Definition":"seven",
@@ -339,7 +339,7 @@
       "Definition":"eight",
       "Lesson":3,
       "Reading":"ハチ; ハッ; やっ",
-      "Kanji":"八",
+      "Prompt":"八",
       "Examples":[
          {
             "Definition":"eight",
@@ -377,7 +377,7 @@
       "Definition":"nine",
       "Lesson":3,
       "Reading":"キュウ; ク; ここの",
-      "Kanji":"九",
+      "Prompt":"九",
       "Examples":[
          {
             "Definition":"nine",
@@ -405,7 +405,7 @@
       "Definition":"ten",
       "Lesson":3,
       "Reading":"ジュウ; ジュッ; とお",
-      "Kanji":"十",
+      "Prompt":"十",
       "Examples":[
          {
             "Definition":"ten",
@@ -463,7 +463,7 @@
       "Definition":"hundred",
       "Lesson":3,
       "Reading":"ヒャク; ピャク; ビャク",
-      "Kanji":"百",
+      "Prompt":"百",
       "Examples":[
          {
             "Definition":"six hundred",
@@ -506,7 +506,7 @@
       "Definition":"thousand",
       "Lesson":3,
       "Reading":"セン; ゼン",
-      "Kanji":"千",
+      "Prompt":"千",
       "Examples":[
          {
             "Definition":"thousand",
@@ -529,7 +529,7 @@
       "Definition":"ten thousand",
       "Lesson":3,
       "Reading":"マン",
-      "Kanji":"万",
+      "Prompt":"万",
       "Examples":[
          {
             "Definition":"ten thousand",
@@ -552,7 +552,7 @@
       "Definition":"yen",
       "Lesson":3,
       "Reading":"エン",
-      "Kanji":"円",
+      "Prompt":"円",
       "Examples":[
          {
             "Definition":"one hundred yen",
@@ -570,7 +570,7 @@
       "Definition":"time; o'clock",
       "Lesson":3,
       "Reading":"ジ; とき",
-      "Kanji":"時",
+      "Prompt":"時",
       "Examples":[
          {
             "Definition":"one o'clock",
@@ -683,7 +683,7 @@
       "Definition":"sun; day; daytime",
       "Lesson":4,
       "Reading":"ニ; ニチ; び; ひ; ニッ",
-      "Kanji":"日",
+      "Prompt":"日",
       "Examples":[
          {
             "Definition":"two days",
@@ -831,7 +831,7 @@
       "Definition":"origin; book",
       "Lesson":4,
       "Reading":"ホン; もと",
-      "Kanji":"本",
+      "Prompt":"本",
       "Examples":[
          {
             "Definition":"Japan",
@@ -909,7 +909,7 @@
       "Definition":"person",
       "Lesson":4,
       "Reading":"ジン; ひと; ニン",
-      "Kanji":"人",
+      "Prompt":"人",
       "Examples":[
          {
             "Definition":"Japanese people",
@@ -1037,7 +1037,7 @@
       "Definition":"counter for name of month; moon",
       "Lesson":4,
       "Reading":"ゲツ; ガツ; つき",
-      "Kanji":"月",
+      "Prompt":"月",
       "Examples":[
          {
             "Definition":"April",
@@ -1070,7 +1070,7 @@
       "Definition":"fire",
       "Lesson":4,
       "Reading":"カ; ひ",
-      "Kanji":"火",
+      "Prompt":"火",
       "Examples":[
          {
             "Definition":"Tuesday",
@@ -1108,7 +1108,7 @@
       "Definition":"water",
       "Lesson":4,
       "Reading":"スイ; みず",
-      "Kanji":"水",
+      "Prompt":"水",
       "Examples":[
          {
             "Definition":"Wednesday",
@@ -1146,7 +1146,7 @@
       "Definition":"tree; wood",
       "Lesson":4,
       "Reading":"モク; き",
-      "Kanji":"木",
+      "Prompt":"木",
       "Examples":[
          {
             "Definition":"Thursday",
@@ -1164,7 +1164,7 @@
       "Definition":"gold",
       "Lesson":4,
       "Reading":"キン; かね",
-      "Kanji":"金",
+      "Prompt":"金",
       "Examples":[
          {
             "Definition":"Friday",
@@ -1212,7 +1212,7 @@
       "Definition":"earth; soil",
       "Lesson":4,
       "Reading":"ド; つち",
-      "Kanji":"土",
+      "Prompt":"土",
       "Examples":[
          {
             "Definition":"Saturday",
@@ -1235,7 +1235,7 @@
       "Definition":"weekday",
       "Lesson":4,
       "Reading":"ヨウ",
-      "Kanji":"曜",
+      "Prompt":"曜",
       "Examples":[
          {
             "Definition":"Sunday",
@@ -1278,7 +1278,7 @@
       "Definition":"top; above; on",
       "Lesson":4,
       "Reading":"うえ; ジョウ",
-      "Kanji":"上",
+      "Prompt":"上",
       "Examples":[
          {
             "Definition":"top; above",
@@ -1326,7 +1326,7 @@
       "Definition":"under; beneath; below; bottom",
       "Lesson":4,
       "Reading":"した; カ",
-      "Kanji":"下",
+      "Prompt":"下",
       "Examples":[
          {
             "Definition":"under",
@@ -1374,7 +1374,7 @@
       "Definition":"inside; within",
       "Lesson":4,
       "Reading":"なか; チュウ; ジュウ",
-      "Kanji":"中",
+      "Prompt":"中",
       "Examples":[
          {
             "Definition":"inside",
@@ -1467,7 +1467,7 @@
       "Definition":"half",
       "Lesson":4,
       "Reading":"ハン",
-      "Kanji":"半",
+      "Prompt":"半",
       "Examples":[
          {
             "Definition":"half past three",
@@ -1490,7 +1490,7 @@
       "Definition":"mountain",
       "Lesson":5,
       "Reading":"やま; サン",
-      "Kanji":"山",
+      "Prompt":"山",
       "Examples":[
          {
             "Definition":"Mr./Ms. Yamamoto",
@@ -1538,7 +1538,7 @@
       "Definition":"river",
       "Lesson":5,
       "Reading":"かわ; がわ",
-      "Kanji":"川",
+      "Prompt":"川",
       "Examples":[
          {
             "Definition":"river",
@@ -1571,7 +1571,7 @@
       "Definition":"origin",
       "Lesson":5,
       "Reading":"ゲン",
-      "Kanji":"元",
+      "Prompt":"元",
       "Examples":[
          {
             "Definition":"fine",
@@ -1584,7 +1584,7 @@
       "Definition":"spirit; mind; energy",
       "Lesson":5,
       "Reading":"キ",
-      "Kanji":"気",
+      "Prompt":"気",
       "Examples":[
          {
             "Definition":"fine",
@@ -1632,7 +1632,7 @@
       "Definition":"I",
       "Lesson":5,
       "Reading":"わたし; シ",
-      "Kanji":"私",
+      "Prompt":"私",
       "Examples":[
          {
             "Definition":"イ",
@@ -1665,7 +1665,7 @@
       "Definition":"now; present",
       "Lesson":5,
       "Reading":"いま; コン",
-      "Kanji":"今",
+      "Prompt":"今",
       "Examples":[
          {
             "Definition":"now",
@@ -1713,7 +1713,7 @@
       "Definition":"rice field",
       "Lesson":5,
       "Reading":"た; だ",
-      "Kanji":"田",
+      "Prompt":"田",
       "Examples":[
          {
             "Definition":"Mr./Ms. Tanaka",
@@ -1751,7 +1751,7 @@
       "Definition":"woman; girl; female",
       "Lesson":5,
       "Reading":"おんな; ジョ",
-      "Kanji":"女",
+      "Prompt":"女",
       "Examples":[
          {
             "Definition":"woman",
@@ -1794,7 +1794,7 @@
       "Definition":"man; male",
       "Lesson":5,
       "Reading":"おとこ; ダン",
-      "Kanji":"男",
+      "Prompt":"男",
       "Examples":[
          {
             "Definition":"man",
@@ -1827,7 +1827,7 @@
       "Definition":"to see",
       "Lesson":5,
       "Reading":"み; ケン",
-      "Kanji":"見",
+      "Prompt":"見",
       "Examples":[
          {
             "Definition":"to see",
@@ -1865,7 +1865,7 @@
       "Definition":"to go",
       "Lesson":5,
       "Reading":"い; コウ; キョウ",
-      "Kanji":"行",
+      "Prompt":"行",
       "Examples":[
          {
             "Definition":"to go",
@@ -1938,7 +1938,7 @@
       "Definition":"to eat",
       "Lesson":5,
       "Reading":"た; ショク",
-      "Kanji":"食",
+      "Prompt":"食",
       "Examples":[
          {
             "Definition":"to eat",
@@ -2001,7 +2001,7 @@
       "Definition":"to drink",
       "Lesson":5,
       "Reading":"の; イン",
-      "Kanji":"飲",
+      "Prompt":"飲",
       "Examples":[
          {
             "Definition":"to drink",
@@ -2024,13 +2024,13 @@
       "Definition":"heaven",
       "Lesson":5,
       "Reading":"テン",
-      "Kanji":"天"
+      "Prompt":"天"
    },
    {
       "Definition":"east",
       "Lesson":6,
       "Reading":"ひがし；トウ",
-      "Kanji":"東",
+      "Prompt":"東",
       "Examples":[
          {
             "Definition":"east",
@@ -2098,7 +2098,7 @@
       "Definition":"west",
       "Lesson":6,
       "Reading":"にし；セイ；サイ",
-      "Kanji":"西",
+      "Prompt":"西",
       "Examples":[
          {
             "Definition":"west",
@@ -2136,7 +2136,7 @@
       "Definition":"south",
       "Lesson":6,
       "Reading":"みなみ；ナン",
-      "Kanji":"南",
+      "Prompt":"南",
       "Examples":[
          {
             "Definition":"south",
@@ -2159,7 +2159,7 @@
       "Definition":"north",
       "Lesson":6,
       "Reading":"きた；ホク；ホッ",
-      "Kanji":"北",
+      "Prompt":"北",
       "Examples":[
          {
             "Definition":"northwest",
@@ -2207,7 +2207,7 @@
       "Definition":"mouth",
       "Lesson":6,
       "Reading":"ぐち；くち；コウ",
-      "Kanji":"口",
+      "Prompt":"口",
       "Examples":[
          {
             "Definition":"east exit",
@@ -2270,7 +2270,7 @@
       "Definition":"to exit",
       "Lesson":6,
       "Reading":"で；だ；シュッ；シュツ",
-      "Kanji":"出",
+      "Prompt":"出",
       "Examples":[
          {
             "Definition":"to exit",
@@ -2333,7 +2333,7 @@
       "Definition":"right",
       "Lesson":6,
       "Reading":"みぎ；ウ；ユウ",
-      "Kanji":"右",
+      "Prompt":"右",
       "Examples":[
          {
             "Definition":"right",
@@ -2356,7 +2356,7 @@
       "Definition":"left",
       "Lesson":6,
       "Reading":"ひだり；サ",
-      "Kanji":"左",
+      "Prompt":"左",
       "Examples":[
          {
             "Definition":"right and left",
@@ -2384,7 +2384,7 @@
       "Definition":"minute; to divide",
       "Lesson":6,
       "Reading":"フン；プン；ブン",
-      "Kanji":"分",
+      "Prompt":"分",
       "Examples":[
          {
             "Definition":"one minute",
@@ -2452,7 +2452,7 @@
       "Definition":"previous; ahead",
       "Lesson":6,
       "Reading":"セン；さき",
-      "Kanji":"先",
+      "Prompt":"先",
       "Examples":[
          {
             "Definition":"teacher",
@@ -2490,7 +2490,7 @@
       "Definition":"birth",
       "Lesson":6,
       "Reading":"セイ；う；ショウ",
-      "Kanji":"生",
+      "Prompt":"生",
       "Examples":[
          {
             "Definition":"first-year student",
@@ -2578,7 +2578,7 @@
       "Definition":"big",
       "Lesson":6,
       "Reading":"ダイ；おお；タイ",
-      "Kanji":"大",
+      "Prompt":"大",
       "Examples":[
          {
             "Definition":"private university",
@@ -2681,7 +2681,7 @@
       "Definition":"learning",
       "Lesson":6,
       "Reading":"ガク；ガッ；まな",
-      "Kanji":"学",
+      "Prompt":"学",
       "Examples":[
          {
             "Definition":"junior high school",
@@ -2849,7 +2849,7 @@
       "Definition":"outside",
       "Lesson":6,
       "Reading":"ガイ；そと",
-      "Kanji":"外",
+      "Prompt":"外",
       "Examples":[
          {
             "Definition":"foreign country",
@@ -2882,7 +2882,7 @@
       "Definition":"country",
       "Lesson":6,
       "Reading":"コク；ゴク；くに",
-      "Kanji":"国",
+      "Prompt":"国",
       "Examples":[
          {
             "Definition":"China",
@@ -2985,7 +2985,7 @@
       "Definition":"capital",
       "Lesson":7,
       "Reading":"キョウ",
-      "Kanji":"京",
+      "Prompt":"京",
       "Examples":[
          {
             "Definition":"Tokyo",
@@ -3028,7 +3028,7 @@
       "Definition":"child",
       "Lesson":7,
       "Reading":"こ；シ",
-      "Kanji":"子",
+      "Prompt":"子",
       "Examples":[
          {
             "Definition":"in one's childhood",
@@ -3091,7 +3091,7 @@
       "Definition":"small",
       "Lesson":7,
       "Reading":"ちい；ショウ",
-      "Kanji":"小",
+      "Prompt":"小",
       "Examples":[
          {
             "Definition":"Mr./Ms. Ogawa",
@@ -3139,7 +3139,7 @@
       "Definition":"to meet",
       "Lesson":7,
       "Reading":"あ；カイ",
-      "Kanji":"会",
+      "Prompt":"会",
       "Examples":[
          {
             "Definition":"to meet",
@@ -3237,7 +3237,7 @@
       "Definition":"company",
       "Lesson":7,
       "Reading":"シャ；ジャ",
-      "Kanji":"社",
+      "Prompt":"社",
       "Examples":[
          {
             "Definition":"company",
@@ -3280,7 +3280,7 @@
       "Definition":"father",
       "Lesson":7,
       "Reading":"ちち；とう；フ",
-      "Kanji":"父",
+      "Prompt":"父",
       "Examples":[
          {
             "Definition":"father",
@@ -3308,7 +3308,7 @@
       "Definition":"mother",
       "Lesson":7,
       "Reading":"はは；かあ；ボ",
-      "Kanji":"母",
+      "Prompt":"母",
       "Examples":[
          {
             "Definition":"Mother's Day",
@@ -3341,7 +3341,7 @@
       "Definition":"high",
       "Lesson":7,
       "Reading":"たか；コウ",
-      "Kanji":"高",
+      "Prompt":"高",
       "Examples":[
          {
             "Definition":"expensive; high",
@@ -3394,7 +3394,7 @@
       "Definition":"school",
       "Lesson":7,
       "Reading":"コウ",
-      "Kanji":"校",
+      "Prompt":"校",
       "Examples":[
          {
             "Definition":"school",
@@ -3437,7 +3437,7 @@
       "Definition":"every",
       "Lesson":7,
       "Reading":"マイ",
-      "Kanji":"毎",
+      "Prompt":"毎",
       "Examples":[
          {
             "Definition":"every day",
@@ -3465,7 +3465,7 @@
       "Definition":"word",
       "Lesson":7,
       "Reading":"ゴ",
-      "Kanji":"語",
+      "Prompt":"語",
       "Examples":[
          {
             "Definition":"Japanese language",
@@ -3498,7 +3498,7 @@
       "Definition":"sentence",
       "Lesson":7,
       "Reading":"ブン",
-      "Kanji":"文",
+      "Prompt":"文",
       "Examples":[
          {
             "Definition":"literature",
@@ -3556,7 +3556,7 @@
       "Definition":"to return",
       "Lesson":7,
       "Reading":"かえ；キ",
-      "Kanji":"帰",
+      "Prompt":"帰",
       "Examples":[
          {
             "Definition":"to return",
@@ -3584,7 +3584,7 @@
       "Definition":"to enter",
       "Lesson":7,
       "Reading":"はい；いり；い；ニュウ",
-      "Kanji":"入",
+      "Prompt":"入",
       "Examples":[
          {
             "Definition":"to enter",
@@ -3622,7 +3622,7 @@
       "Definition":"member",
       "Lesson":8,
       "Reading":"イン",
-      "Kanji":"員",
+      "Prompt":"員",
       "Examples":[
          {
             "Definition":"office worker",
@@ -3665,7 +3665,7 @@
       "Definition":"new",
       "Lesson":8,
       "Reading":"あたら；シン",
-      "Kanji":"新",
+      "Prompt":"新",
       "Examples":[
          {
             "Definition":"new",
@@ -3698,7 +3698,7 @@
       "Definition":"to listen",
       "Lesson":8,
       "Reading":"き；ブン",
-      "Kanji":"聞",
+      "Prompt":"聞",
       "Examples":[
          {
             "Definition":"newspaper",
@@ -3716,7 +3716,7 @@
       "Definition":"to make",
       "Lesson":8,
       "Reading":"つく；サク",
-      "Kanji":"作",
+      "Prompt":"作",
       "Examples":[
          {
             "Definition":"composition",
@@ -3749,7 +3749,7 @@
       "Definition":"to serve",
       "Lesson":8,
       "Reading":"シ",
-      "Kanji":"仕",
+      "Prompt":"仕",
       "Examples":[
          {
             "Definition":"job",
@@ -3777,7 +3777,7 @@
       "Definition":"thing",
       "Lesson":8,
       "Reading":"ごと；こと；ジ",
-      "Kanji":"事",
+      "Prompt":"事",
       "Examples":[
          {
             "Definition":"job",
@@ -3855,7 +3855,7 @@
       "Definition":"electricity",
       "Lesson":8,
       "Reading":"デン",
-      "Kanji":"電",
+      "Prompt":"電",
       "Examples":[
          {
             "Definition":"electricity",
@@ -3908,7 +3908,7 @@
       "Definition":"car",
       "Lesson":8,
       "Reading":"くるま；シャ",
-      "Kanji":"車",
+      "Prompt":"車",
       "Examples":[
          {
             "Definition":"train",
@@ -3966,7 +3966,7 @@
       "Definition":"to rest",
       "Lesson":8,
       "Reading":"やす；キュウ",
-      "Kanji":"休",
+      "Prompt":"休",
       "Examples":[
          {
             "Definition":"to be absent; to rest",
@@ -4004,7 +4004,7 @@
       "Definition":"to say",
       "Lesson":8,
       "Reading":"い；ゲン",
-      "Kanji":"言",
+      "Prompt":"言",
       "Examples":[
          {
             "Definition":"to say",
@@ -4022,7 +4022,7 @@
       "Definition":"to read",
       "Lesson":8,
       "Reading":"よ；ドク",
-      "Kanji":"読",
+      "Prompt":"読",
       "Examples":[
          {
             "Definition":"to read",
@@ -4050,7 +4050,7 @@
       "Definition":"to think",
       "Lesson":8,
       "Reading":"おも；シ",
-      "Kanji":"思",
+      "Prompt":"思",
       "Examples":[
          {
             "Definition":"to think",
@@ -4083,7 +4083,7 @@
       "Definition":"next",
       "Lesson":8,
       "Reading":"つぎ；ジ",
-      "Kanji":"次",
+      "Prompt":"次",
       "Examples":[
          {
             "Definition":"next",
@@ -4116,7 +4116,7 @@
       "Definition":"what",
       "Lesson":8,
       "Reading":"なに；なん",
-      "Kanji":"何",
+      "Prompt":"何",
       "Examples":[
          {
             "Definition":"what",
@@ -4139,7 +4139,7 @@
       "Definition":"noon",
       "Lesson":9,
       "Reading":"ゴ",
-      "Kanji":"午",
+      "Prompt":"午",
       "Examples":[
          {
             "Definition":"A.M.",
@@ -4162,7 +4162,7 @@
       "Definition":"after",
       "Lesson":9,
       "Reading":"ゴ；あと；うし",
-      "Kanji":"後",
+      "Prompt":"後",
       "Examples":[
          {
             "Definition":"P.M.;  in the afternoon",
@@ -4210,7 +4210,7 @@
       "Definition":"before",
       "Lesson":9,
       "Reading":"まえ；ゼン",
-      "Kanji":"前",
+      "Prompt":"前",
       "Examples":[
          {
             "Definition":"A.M.",
@@ -4258,7 +4258,7 @@
       "Definition":"name",
       "Lesson":9,
       "Reading":"な；メイ",
-      "Kanji":"名",
+      "Prompt":"名",
       "Examples":[
          {
             "Definition":"name",
@@ -4291,7 +4291,7 @@
       "Definition":"white",
       "Lesson":9,
       "Reading":"しろ；ハク",
-      "Kanji":"白",
+      "Prompt":"白",
       "Examples":[
          {
             "Definition":"swan",
@@ -4329,7 +4329,7 @@
       "Definition":"rain",
       "Lesson":9,
       "Reading":"あめ；ウ",
-      "Kanji":"雨",
+      "Prompt":"雨",
       "Examples":[
          {
             "Definition":"rain",
@@ -4357,7 +4357,7 @@
       "Definition":"to write",
       "Lesson":9,
       "Reading":"か；ショ",
-      "Kanji":"書",
+      "Prompt":"書",
       "Examples":[
          {
             "Definition":"to write",
@@ -4425,7 +4425,7 @@
       "Definition":"friend",
       "Lesson":9,
       "Reading":"とも；ユウ",
-      "Kanji":"友",
+      "Prompt":"友",
       "Examples":[
          {
             "Definition":"friend",
@@ -4453,7 +4453,7 @@
       "Definition":"between",
       "Lesson":9,
       "Reading":"カン；あいだ",
-      "Kanji":"間",
+      "Prompt":"間",
       "Examples":[
          {
             "Definition":"two days",
@@ -4516,7 +4516,7 @@
       "Definition":"house",
       "Lesson":9,
       "Reading":"いえ；カ",
-      "Kanji":"家",
+      "Prompt":"家",
       "Examples":[
          {
             "Definition":"house",
@@ -4569,7 +4569,7 @@
       "Definition":"to speak",
       "Lesson":9,
       "Reading":"はな；はなし；ワ",
-      "Kanji":"話",
+      "Prompt":"話",
       "Examples":[
          {
             "Definition":"telephone",
@@ -4647,7 +4647,7 @@
       "Definition":"little",
       "Lesson":9,
       "Reading":"すこ；すく；ショウ",
-      "Kanji":"少",
+      "Prompt":"少",
       "Examples":[
          {
             "Definition":"little",
@@ -4675,7 +4675,7 @@
       "Definition":"old",
       "Lesson":9,
       "Reading":"ふる；コ",
-      "Kanji":"古",
+      "Prompt":"古",
       "Examples":[
          {
             "Definition":"old (for things)",
@@ -4698,7 +4698,7 @@
       "Definition":"to know",
       "Lesson":9,
       "Reading":"し；チ",
-      "Kanji":"知",
+      "Prompt":"知",
       "Examples":[
          {
             "Definition":"to know",
@@ -4746,7 +4746,7 @@
       "Definition":"to come",
       "Lesson":9,
       "Reading":"く；き；こ；ライ",
-      "Kanji":"来",
+      "Prompt":"来",
       "Examples":[
          {
             "Definition":"to come",
@@ -4779,7 +4779,7 @@
       "Definition":"to live",
       "Lesson":10,
       "Reading":"す；ジュウ",
-      "Kanji":"住",
+      "Prompt":"住",
       "Examples":[
          {
             "Definition":"to live",
@@ -4807,7 +4807,7 @@
       "Definition":"right",
       "Lesson":10,
       "Reading":"ショウ；ただ",
-      "Kanji":"正",
+      "Prompt":"正",
       "Examples":[
          {
             "Definition":"New Year",
@@ -4845,7 +4845,7 @@
       "Definition":"year",
       "Lesson":10,
       "Reading":"ネン；とし",
-      "Kanji":"年",
+      "Prompt":"年",
       "Examples":[
          {
             "Definition":"first-year student",
@@ -4903,7 +4903,7 @@
       "Definition":"to sell",
       "Lesson":10,
       "Reading":"う；バイ",
-      "Kanji":"売",
+      "Prompt":"売",
       "Examples":[
          {
             "Definition":"to sell",
@@ -4936,7 +4936,7 @@
       "Definition":"to buy",
       "Lesson":10,
       "Reading":"か",
-      "Kanji":"買",
+      "Prompt":"買",
       "Examples":[
          {
             "Definition":"to buy",
@@ -4954,7 +4954,7 @@
       "Definition":"town",
       "Lesson":10,
       "Reading":"まち；チョウ",
-      "Kanji":"町",
+      "Prompt":"町",
       "Examples":[
          {
             "Definition":"town",
@@ -4977,7 +4977,7 @@
       "Definition":"long",
       "Lesson":10,
       "Reading":"なが；チョウ",
-      "Kanji":"長",
+      "Prompt":"長",
       "Examples":[
          {
             "Definition":"mayor of a town",
@@ -5015,7 +5015,7 @@
       "Definition":"way",
       "Lesson":10,
       "Reading":"みち；ドウ",
-      "Kanji":"道",
+      "Prompt":"道",
       "Examples":[
          {
             "Definition":"way; road",
@@ -5088,7 +5088,7 @@
       "Definition":"snow",
       "Lesson":10,
       "Reading":"ゆき；セツ",
-      "Kanji":"雪",
+      "Prompt":"雪",
       "Examples":[
          {
             "Definition":"snow",
@@ -5106,7 +5106,7 @@
       "Definition":"to stand",
       "Lesson":10,
       "Reading":"た；リツ",
-      "Kanji":"立",
+      "Prompt":"立",
       "Examples":[
          {
             "Definition":"private university",
@@ -5164,7 +5164,7 @@
       "Definition":"self",
       "Lesson":10,
       "Reading":"ジ",
-      "Kanji":"自",
+      "Prompt":"自",
       "Examples":[
          {
             "Definition":"oneself",
@@ -5202,7 +5202,7 @@
       "Definition":"night",
       "Lesson":10,
       "Reading":"よる；よ；ヤ",
-      "Kanji":"夜",
+      "Prompt":"夜",
       "Examples":[
          {
             "Definition":"night",
@@ -5235,7 +5235,7 @@
       "Definition":"morning",
       "Lesson":10,
       "Reading":"あさ；チョウ",
-      "Kanji":"朝",
+      "Prompt":"朝",
       "Examples":[
          {
             "Definition":"morning",
@@ -5268,7 +5268,7 @@
       "Definition":"to hold",
       "Lesson":10,
       "Reading":"も；ジ",
-      "Kanji":"持",
+      "Prompt":"持",
       "Examples":[
          {
             "Definition":"to hold",
@@ -5291,7 +5291,7 @@
       "Definition":"hand",
       "Lesson":11,
       "Reading":"て；シュ",
-      "Kanji":"手",
+      "Prompt":"手",
       "Examples":[
          {
             "Definition":"good at",
@@ -5379,7 +5379,7 @@
       "Definition":"paper",
       "Lesson":11,
       "Reading":"がみ；かみ；シ",
-      "Kanji":"紙",
+      "Prompt":"紙",
       "Examples":[
          {
             "Definition":"letter",
@@ -5422,7 +5422,7 @@
       "Definition":"favorite; to like",
       "Lesson":11,
       "Reading":"す；コウ；この",
-      "Kanji":"好",
+      "Prompt":"好",
       "Examples":[
          {
             "Definition":"to like",
@@ -5445,7 +5445,7 @@
       "Definition":"near",
       "Lesson":11,
       "Reading":"ちか；キン",
-      "Kanji":"近",
+      "Prompt":"近",
       "Examples":[
          {
             "Definition":"nearby",
@@ -5478,7 +5478,7 @@
       "Definition":"bright",
       "Lesson":11,
       "Reading":"あか；メイ",
-      "Kanji":"明",
+      "Prompt":"明",
       "Examples":[
          {
             "Definition":"cheerful; bright",
@@ -5511,7 +5511,7 @@
       "Definition":"ill; sick",
       "Lesson":11,
       "Reading":"ビョウ",
-      "Kanji":"病",
+      "Prompt":"病",
       "Examples":[
          {
             "Definition":"hospital",
@@ -5539,7 +5539,7 @@
       "Definition":"institution",
       "Lesson":11,
       "Reading":"イン",
-      "Kanji":"院",
+      "Prompt":"院",
       "Examples":[
          {
             "Definition":"hospital",
@@ -5572,7 +5572,7 @@
       "Definition":"to reflect",
       "Lesson":11,
       "Reading":"エイ；うつ",
-      "Kanji":"映",
+      "Prompt":"映",
       "Examples":[
          {
             "Definition":"movie",
@@ -5610,7 +5610,7 @@
       "Definition":"picture",
       "Lesson":11,
       "Reading":"ガ；カク",
-      "Kanji":"画",
+      "Prompt":"画",
       "Examples":[
          {
             "Definition":"movie",
@@ -5653,7 +5653,7 @@
       "Definition":"to sing",
       "Lesson":11,
       "Reading":"うた；カ",
-      "Kanji":"歌",
+      "Prompt":"歌",
       "Examples":[
          {
             "Definition":"singer",
@@ -5681,7 +5681,7 @@
       "Definition":"city",
       "Lesson":11,
       "Reading":"シ；いち",
-      "Kanji":"市",
+      "Prompt":"市",
       "Examples":[
          {
             "Definition":"Kawaguchi city",
@@ -5719,7 +5719,7 @@
       "Definition":"place",
       "Lesson":11,
       "Reading":"ところ；どころ；ジョ；ショ",
-      "Kanji":"所",
+      "Prompt":"所",
       "Examples":[
          {
             "Definition":"address",
@@ -5807,7 +5807,7 @@
       "Definition":"to make efforts",
       "Lesson":11,
       "Reading":"ベン；つと",
-      "Kanji":"勉",
+      "Prompt":"勉",
       "Examples":[
          {
             "Definition":"to study",
@@ -5830,7 +5830,7 @@
       "Definition":"strong",
       "Lesson":11,
       "Reading":"キョウ；ゴウ；つよ",
-      "Kanji":"強",
+      "Prompt":"強",
       "Examples":[
          {
             "Definition":"to study",
@@ -5853,7 +5853,7 @@
       "Definition":"to exist",
       "Lesson":11,
       "Reading":"ユウ；あ",
-      "Kanji":"有",
+      "Prompt":"有",
       "Examples":[
          {
             "Definition":"famous",
@@ -5886,7 +5886,7 @@
       "Definition":"travel",
       "Lesson":11,
       "Reading":"リョ；たび",
-      "Kanji":"旅",
+      "Prompt":"旅",
       "Examples":[
          {
             "Definition":"travel",
@@ -5939,7 +5939,7 @@
       "Definition":"ancient times",
       "Lesson":12,
       "Reading":"むかし",
-      "Kanji":"昔",
+      "Prompt":"昔",
       "Examples":[
          {
             "Definition":"old times",
@@ -5962,7 +5962,7 @@
       "Definition":"symbol of repetition of a kanji",
       "Lesson":12,
       "Reading":"",
-      "Kanji":"々",
+      "Prompt":"々",
       "Examples":[
          {
             "Definition":"sometimes",
@@ -5995,7 +5995,7 @@
       "Definition":"God",
       "Lesson":12,
       "Reading":"かみ；ジン；シン",
-      "Kanji":"神",
+      "Prompt":"神",
       "Examples":[
          {
             "Definition":"God",
@@ -6018,7 +6018,7 @@
       "Definition":"early",
       "Lesson":12,
       "Reading":"はや；ツウ",
-      "Kanji":"早",
+      "Prompt":"早",
       "Examples":[
          {
             "Definition":"early",
@@ -6046,7 +6046,7 @@
       "Definition":"to get up",
       "Lesson":12,
       "Reading":"お；キ",
-      "Kanji":"起",
+      "Prompt":"起",
       "Examples":[
          {
             "Definition":"to get up early",
@@ -6079,7 +6079,7 @@
       "Definition":"cow",
       "Lesson":12,
       "Reading":"うし；ギュウ",
-      "Kanji":"牛",
+      "Prompt":"牛",
       "Examples":[
          {
             "Definition":"cow",
@@ -6107,7 +6107,7 @@
       "Definition":"to use",
       "Lesson":12,
       "Reading":"つか；シ",
-      "Kanji":"使",
+      "Prompt":"使",
       "Examples":[
          {
             "Definition":"to use",
@@ -6145,7 +6145,7 @@
       "Definition":"to work",
       "Lesson":12,
       "Reading":"はたら；ばたら；ドウ",
-      "Kanji":"働",
+      "Prompt":"働",
       "Examples":[
          {
             "Definition":"to work",
@@ -6168,7 +6168,7 @@
       "Definition":"to link",
       "Lesson":12,
       "Reading":"つ；レン",
-      "Kanji":"連",
+      "Prompt":"連",
       "Examples":[
          {
             "Definition":"to take home",
@@ -6221,7 +6221,7 @@
       "Definition":"to separate",
       "Lesson":12,
       "Reading":"わか；ベツ",
-      "Kanji":"別",
+      "Prompt":"別",
       "Examples":[
          {
             "Definition":"to separate",
@@ -6269,7 +6269,7 @@
       "Definition":"time; degrees",
       "Lesson":12,
       "Reading":"ド",
-      "Kanji":"度",
+      "Prompt":"度",
       "Examples":[
          {
             "Definition":"once in a life time",
@@ -6307,7 +6307,7 @@
       "Definition":"red",
       "Lesson":12,
       "Reading":"あか；セキ",
-      "Kanji":"赤",
+      "Prompt":"赤",
       "Examples":[
          {
             "Definition":"red color",
@@ -6345,7 +6345,7 @@
       "Definition":"blue",
       "Lesson":12,
       "Reading":"あお；セイ",
-      "Kanji":"青",
+      "Prompt":"青",
       "Examples":[
          {
             "Definition":"blue color",
@@ -6373,7 +6373,7 @@
       "Definition":"color",
       "Lesson":12,
       "Reading":"いろ；シキ；ショク",
-      "Kanji":"色",
+      "Prompt":"色",
       "Examples":[
          {
             "Definition":"various",
@@ -6421,7 +6421,7 @@
       "Definition":"thing",
       "Lesson":13,
       "Reading":"もの；ブシ",
-      "Kanji":"物",
+      "Prompt":"物",
       "Examples":[
          {
             "Definition":"sightseeing",
@@ -6524,7 +6524,7 @@
       "Definition":"bird",
       "Lesson":13,
       "Reading":"とり；チョウ",
-      "Kanji":"鳥",
+      "Prompt":"鳥",
       "Examples":[
          {
             "Definition":"bird",
@@ -6547,7 +6547,7 @@
       "Definition":"ingredients; fare",
       "Lesson":13,
       "Reading":"リョウ",
-      "Kanji":"料",
+      "Prompt":"料",
       "Examples":[
          {
             "Definition":"cooking",
@@ -6600,7 +6600,7 @@
       "Definition":"reason",
       "Lesson":13,
       "Reading":"リ",
-      "Kanji":"理",
+      "Prompt":"理",
       "Examples":[
          {
             "Definition":"cooking",
@@ -6643,7 +6643,7 @@
       "Definition":"special",
       "Lesson":13,
       "Reading":"トク；トッ",
-      "Kanji":"特",
+      "Prompt":"特",
       "Examples":[
          {
             "Definition":"especially",
@@ -6676,7 +6676,7 @@
       "Definition":"cheap; ease",
       "Lesson":13,
       "Reading":"やす；アン",
-      "Kanji":"安",
+      "Prompt":"安",
       "Examples":[
          {
             "Definition":"cheap",
@@ -6704,7 +6704,7 @@
       "Definition":"food; cooked rice",
       "Lesson":13,
       "Reading":"ハン",
-      "Kanji":"飯",
+      "Prompt":"飯",
       "Examples":[
          {
             "Definition":"rice; meal",
@@ -6732,7 +6732,7 @@
       "Definition":"meat",
       "Lesson":13,
       "Reading":"ニク",
-      "Kanji":"肉",
+      "Prompt":"肉",
       "Examples":[
          {
             "Definition":"beef",
@@ -6760,7 +6760,7 @@
       "Definition":"bad; wrong",
       "Lesson":13,
       "Reading":"わる；アク",
-      "Kanji":"悪",
+      "Prompt":"悪",
       "Examples":[
          {
             "Definition":"bad",
@@ -6808,7 +6808,7 @@
       "Definition":"body",
       "Lesson":13,
       "Reading":"からだ；タイ",
-      "Kanji":"体",
+      "Prompt":"体",
       "Examples":[
          {
             "Definition":"body",
@@ -6846,7 +6846,7 @@
       "Definition":"sky; empty",
       "Lesson":13,
       "Reading":"クウ；そら；あ；から",
-      "Kanji":"空",
+      "Prompt":"空",
       "Examples":[
          {
             "Definition":"airport",
@@ -6884,7 +6884,7 @@
       "Definition":"port; harbor",
       "Lesson":13,
       "Reading":"コウ；みなと",
-      "Kanji":"港",
+      "Prompt":"港",
       "Examples":[
          {
             "Definition":"airport",
@@ -6907,7 +6907,7 @@
       "Definition":"to reach; to wear",
       "Lesson":13,
       "Reading":"つき；チャク",
-      "Kanji":"着",
+      "Prompt":"着",
       "Examples":[
          {
             "Definition":"to arrive",
@@ -6945,7 +6945,7 @@
       "Definition":"same",
       "Lesson":13,
       "Reading":"おな；ドウ",
-      "Kanji":"同",
+      "Prompt":"同",
       "Examples":[
          {
             "Definition":"same",
@@ -6983,7 +6983,7 @@
       "Definition":"sea",
       "Lesson":13,
       "Reading":"うみ；カイ",
-      "Kanji":"海",
+      "Prompt":"海",
       "Examples":[
          {
             "Definition":"Hokkaido",
@@ -7016,7 +7016,7 @@
       "Definition":"noon; daytime",
       "Lesson":13,
       "Reading":"ひる；チュウ",
-      "Kanji":"昼",
+      "Prompt":"昼",
       "Examples":[
          {
             "Definition":"noon; daytime",
@@ -7044,7 +7044,7 @@
       "Definition":"he",
       "Lesson":14,
       "Reading":"かれ；かの",
-      "Kanji":"彼",
+      "Prompt":"彼",
       "Examples":[
          {
             "Definition":"he; boyfriend",
@@ -7062,7 +7062,7 @@
       "Definition":"age; replace",
       "Lesson":14,
       "Reading":"ダイ；か",
-      "Kanji":"代",
+      "Prompt":"代",
       "Examples":[
          {
             "Definition":"generation",
@@ -7100,7 +7100,7 @@
       "Definition":"to stay; to keep",
       "Lesson":14,
       "Reading":"リュウ；ル；と",
-      "Kanji":"留",
+      "Prompt":"留",
       "Examples":[
          {
             "Definition":"foreign students",
@@ -7123,7 +7123,7 @@
       "Definition":"family; tribe",
       "Lesson":14,
       "Reading":"ゾク",
-      "Kanji":"族",
+      "Prompt":"族",
       "Examples":[
          {
             "Definition":"family",
@@ -7151,7 +7151,7 @@
       "Definition":"parent; intimacy",
       "Lesson":14,
       "Reading":"おや；シン；した",
-      "Kanji":"親",
+      "Prompt":"親",
       "Examples":[
          {
             "Definition":"father",
@@ -7189,7 +7189,7 @@
       "Definition":"to cut",
       "Lesson":14,
       "Reading":"セツ；き；きっ",
-      "Kanji":"切",
+      "Prompt":"切",
       "Examples":[
          {
             "Definition":"kind",
@@ -7222,7 +7222,7 @@
       "Definition":"English; excellent",
       "Lesson":14,
       "Reading":"エイ",
-      "Kanji":"英",
+      "Prompt":"英",
       "Examples":[
          {
             "Definition":"English language",
@@ -7250,7 +7250,7 @@
       "Definition":"shop",
       "Lesson":14,
       "Reading":"みせ；テン",
-      "Kanji":"店",
+      "Prompt":"店",
       "Examples":[
          {
             "Definition":"stand; stall",
@@ -7298,7 +7298,7 @@
       "Definition":"past; to leave",
       "Lesson":14,
       "Reading":"キョ；コ；さ",
-      "Kanji":"去",
+      "Prompt":"去",
       "Examples":[
          {
             "Definition":"last year",
@@ -7316,7 +7316,7 @@
       "Definition":"to hurry; emergency",
       "Lesson":14,
       "Reading":"キュウ；いそ",
-      "Kanji":"急",
+      "Prompt":"急",
       "Examples":[
          {
             "Definition":"sudden illness",
@@ -7364,7 +7364,7 @@
       "Definition":"to ride",
       "Lesson":14,
       "Reading":"の；ジョウ",
-      "Kanji":"乗",
+      "Prompt":"乗",
       "Examples":[
          {
             "Definition":"to ride",
@@ -7387,7 +7387,7 @@
       "Definition":"to hit",
       "Lesson":14,
       "Reading":"トウ；あ",
-      "Kanji":"当",
+      "Prompt":"当",
       "Examples":[
          {
             "Definition":"really",
@@ -7420,7 +7420,7 @@
       "Definition":"sound",
       "Lesson":14,
       "Reading":"オン；おと；ね",
-      "Kanji":"音",
+      "Prompt":"音",
       "Examples":[
          {
             "Definition":"music",
@@ -7458,7 +7458,7 @@
       "Definition":"pleasure",
       "Lesson":14,
       "Reading":"ガク；たの；ガッ；ラク",
-      "Kanji":"楽",
+      "Prompt":"楽",
       "Examples":[
          {
             "Definition":"music",
@@ -7496,7 +7496,7 @@
       "Definition":"doctor; medicine",
       "Lesson":14,
       "Reading":"イ",
-      "Kanji":"医",
+      "Prompt":"医",
       "Examples":[
          {
             "Definition":"doctor",
@@ -7519,7 +7519,7 @@
       "Definition":"person",
       "Lesson":14,
       "Reading":"シャ；もの",
-      "Kanji":"者",
+      "Prompt":"者",
       "Examples":[
          {
             "Definition":"doctor",
@@ -7562,7 +7562,7 @@
       "Definition":"death; to die",
       "Lesson":15,
       "Reading":"し；シ",
-      "Kanji":"死",
+      "Prompt":"死",
       "Examples":[
          {
             "Definition":"to die",
@@ -7575,7 +7575,7 @@
       "Definition":"mind; meaning",
       "Lesson":15,
       "Reading":"イ",
-      "Kanji":"意",
+      "Prompt":"意",
       "Examples":[
          {
             "Definition":"meaning",
@@ -7628,7 +7628,7 @@
       "Definition":"flavor; taste",
       "Lesson":15,
       "Reading":"ミ；あじ",
-      "Kanji":"味",
+      "Prompt":"味",
       "Examples":[
          {
             "Definition":"meaning",
@@ -7671,7 +7671,7 @@
       "Definition":"to pour; to shed",
       "Lesson":15,
       "Reading":"チュウ；そそ",
-      "Kanji":"注",
+      "Prompt":"注",
       "Examples":[
          {
             "Definition":"to watch out",
@@ -7704,7 +7704,7 @@
       "Definition":"summer",
       "Lesson":15,
       "Reading":"なつ；カ",
-      "Kanji":"夏",
+      "Prompt":"夏",
       "Examples":[
          {
             "Definition":"summer",
@@ -7732,7 +7732,7 @@
       "Definition":"fish",
       "Lesson":15,
       "Reading":"さかな；うお；ギョ",
-      "Kanji":"魚",
+      "Prompt":"魚",
       "Examples":[
          {
             "Definition":"fish",
@@ -7750,7 +7750,7 @@
       "Definition":"temple",
       "Lesson":15,
       "Reading":"てら；ジ",
-      "Kanji":"寺",
+      "Prompt":"寺",
       "Examples":[
          {
             "Definition":"temple",
@@ -7768,7 +7768,7 @@
       "Definition":"spacious; wide",
       "Lesson":15,
       "Reading":"ひろ；コウ",
-      "Kanji":"広",
+      "Prompt":"広",
       "Examples":[
          {
             "Definition":"wide; spacious",
@@ -7801,7 +7801,7 @@
       "Definition":"to roll over",
       "Lesson":15,
       "Reading":"テン；ころ",
-      "Kanji":"転",
+      "Prompt":"転",
       "Examples":[
          {
             "Definition":"driving",
@@ -7844,7 +7844,7 @@
       "Definition":"to borrow",
       "Lesson":15,
       "Reading":"か；シャク；シャツ",
-      "Kanji":"借",
+      "Prompt":"借",
       "Examples":[
          {
             "Definition":"to borrow",
@@ -7867,7 +7867,7 @@
       "Definition":"to run",
       "Lesson":15,
       "Reading":"はし；ソウ",
-      "Kanji":"走",
+      "Prompt":"走",
       "Examples":[
          {
             "Definition":"to run",
@@ -7880,7 +7880,7 @@
       "Definition":"to build",
       "Lesson":15,
       "Reading":"たて；た；ケン",
-      "Kanji":"建",
+      "Prompt":"建",
       "Examples":[
          {
             "Definition":"building",
@@ -7893,7 +7893,7 @@
       "Definition":"ground",
       "Lesson":15,
       "Reading":"チ；ジ",
-      "Kanji":"地",
+      "Prompt":"地",
       "Examples":[
          {
             "Definition":"subway",
@@ -7961,7 +7961,7 @@
       "Definition":"place",
       "Lesson":15,
       "Reading":"ば；ジョウ",
-      "Kanji":"場",
+      "Prompt":"場",
       "Examples":[
          {
             "Definition":"square; open space; plaza",
@@ -8004,7 +8004,7 @@
       "Definition":"foot; leg",
       "Lesson":15,
       "Reading":"あし；た；ソク",
-      "Kanji":"足",
+      "Prompt":"足",
       "Examples":[
          {
             "Definition":"foot; leg",
@@ -8037,7 +8037,7 @@
       "Definition":"to pass; to commute",
       "Lesson":15,
       "Reading":"とお；かよ；ツウ",
-      "Kanji":"通",
+      "Prompt":"通",
       "Examples":[
          {
             "Definition":"to go through; to pass",
@@ -8110,7 +8110,7 @@
       "Definition":"companion; offer",
       "Lesson":16,
       "Reading":"ども；とも；そな；キョウ",
-      "Kanji":"供",
+      "Prompt":"供",
       "Examples":[
          {
             "Definition":"in one's childhood",
@@ -8143,7 +8143,7 @@
       "Definition":"world; generation",
       "Lesson":16,
       "Reading":"セ；セイ；よ",
-      "Kanji":"世",
+      "Prompt":"世",
       "Examples":[
          {
             "Definition":"the world",
@@ -8176,7 +8176,7 @@
       "Definition":"world",
       "Lesson":16,
       "Reading":"カイ",
-      "Kanji":"界",
+      "Prompt":"界",
       "Examples":[
          {
             "Definition":"the world",
@@ -8189,7 +8189,7 @@
       "Definition":"all",
       "Lesson":16,
       "Reading":"ゼン；まった",
-      "Kanji":"全",
+      "Prompt":"全",
       "Examples":[
          {
             "Definition":"all",
@@ -8212,7 +8212,7 @@
       "Definition":"part; section",
       "Lesson":16,
       "Reading":"ブ；へ",
-      "Kanji":"部",
+      "Prompt":"部",
       "Examples":[
          {
             "Definition":"all",
@@ -8240,7 +8240,7 @@
       "Definition":"to begin",
       "Lesson":16,
       "Reading":"はじ；シ",
-      "Kanji":"始",
+      "Prompt":"始",
       "Examples":[
          {
             "Definition":"(something) begins",
@@ -8268,7 +8268,7 @@
       "Definition":"week",
       "Lesson":16,
       "Reading":"シュウ",
-      "Kanji":"週",
+      "Prompt":"週",
       "Examples":[
          {
             "Definition":"last week",
@@ -8316,7 +8316,7 @@
       "Definition":"by means of; compared with",
       "Lesson":16,
       "Reading":"イ",
-      "Kanji":"以",
+      "Prompt":"以",
       "Examples":[
          {
             "Definition":"... or more",
@@ -8349,7 +8349,7 @@
       "Definition":"to think; idea",
       "Lesson":16,
       "Reading":"かんが；コウ",
-      "Kanji":"考",
+      "Prompt":"考",
       "Examples":[
          {
             "Definition":"to think",
@@ -8382,7 +8382,7 @@
       "Definition":"to open",
       "Lesson":16,
       "Reading":"あ；ひら；カイ",
-      "Kanji":"開",
+      "Prompt":"開",
       "Examples":[
          {
             "Definition":"to open (something)",
@@ -8405,7 +8405,7 @@
       "Definition":"shop; house",
       "Lesson":16,
       "Reading":"や；オク",
-      "Kanji":"屋",
+      "Prompt":"屋",
       "Examples":[
          {
             "Definition":"rooftop",
@@ -8443,7 +8443,7 @@
       "Definition":"direction; person",
       "Lesson":16,
       "Reading":"かた；がた；ホウ",
-      "Kanji":"方",
+      "Prompt":"方",
       "Examples":[
          {
             "Definition":"person on one's side",
@@ -8491,7 +8491,7 @@
       "Definition":"transport; luck",
       "Lesson":16,
       "Reading":"ウン；はこ",
-      "Kanji":"運",
+      "Prompt":"運",
       "Examples":[
          {
             "Definition":"exercise",
@@ -8534,7 +8534,7 @@
       "Definition":"to move",
       "Lesson":16,
       "Reading":"ドウ；うご",
-      "Kanji":"動",
+      "Prompt":"動",
       "Examples":[
          {
             "Definition":"animal",
@@ -8567,7 +8567,7 @@
       "Definition":"to teach",
       "Lesson":16,
       "Reading":"おし；キョウ",
-      "Kanji":"教",
+      "Prompt":"教",
       "Examples":[
          {
             "Definition":"to teach",
@@ -8615,7 +8615,7 @@
       "Definition":"room",
       "Lesson":16,
       "Reading":"シツ",
-      "Kanji":"室",
+      "Prompt":"室",
       "Examples":[
          {
             "Definition":"classroom",
@@ -8663,7 +8663,7 @@
       "Definition":"year; age",
       "Lesson":17,
       "Reading":"サイ；セイ",
-      "Kanji":"歳",
+      "Prompt":"歳",
       "Examples":[
          {
             "Definition":"twenty-five years old",
@@ -8681,7 +8681,7 @@
       "Definition":"to learn",
       "Lesson":17,
       "Reading":"なら；シュウ",
-      "Kanji":"習",
+      "Prompt":"習",
       "Examples":[
          {
             "Definition":"to learn",
@@ -8699,7 +8699,7 @@
       "Definition":"main; lord",
       "Lesson":17,
       "Reading":"おも；シュ；ぬし",
-      "Kanji":"主",
+      "Prompt":"主",
       "Examples":[
          {
             "Definition":"mainly",
@@ -8727,7 +8727,7 @@
       "Definition":"to tie; to join",
       "Lesson":17,
       "Reading":"ケッ；ケツ；むす",
-      "Kanji":"結",
+      "Prompt":"結",
       "Examples":[
          {
             "Definition":"to marry",
@@ -8760,7 +8760,7 @@
       "Definition":"marriage",
       "Lesson":17,
       "Reading":"コン",
-      "Kanji":"婚",
+      "Prompt":"婚",
       "Examples":[
          {
             "Definition":"to marry",
@@ -8798,7 +8798,7 @@
       "Definition":"to gather",
       "Lesson":17,
       "Reading":"あつ；シュウ",
-      "Kanji":"集",
+      "Prompt":"集",
       "Examples":[
          {
             "Definition":"to collect",
@@ -8811,7 +8811,7 @@
       "Definition":"to start; to reveal",
       "Lesson":17,
       "Reading":"ハッ；ハツ；パツ",
-      "Kanji":"発",
+      "Prompt":"発",
       "Examples":[
          {
             "Definition":"pronunciation",
@@ -8859,7 +8859,7 @@
       "Definition":"to express; surface",
       "Lesson":17,
       "Reading":"ピョウ；ヒョウ；あらわ",
-      "Kanji":"表",
+      "Prompt":"表",
       "Examples":[
          {
             "Definition":"a surface",
@@ -8892,7 +8892,7 @@
       "Definition":"goods; refinement",
       "Lesson":17,
       "Reading":"ヒン；しな",
-      "Kanji":"品",
+      "Prompt":"品",
       "Examples":[
          {
             "Definition":"artistic piece",
@@ -8945,7 +8945,7 @@
       "Definition":"character; letter",
       "Lesson":17,
       "Reading":"ジ",
-      "Kanji":"字",
+      "Prompt":"字",
       "Examples":[
          {
             "Definition":"letter; character",
@@ -8993,7 +8993,7 @@
       "Definition":"lively",
       "Lesson":17,
       "Reading":"カツ；カッ",
-      "Kanji":"活",
+      "Prompt":"活",
       "Examples":[
          {
             "Definition":"activity",
@@ -9026,7 +9026,7 @@
       "Definition":"to copy",
       "Lesson":17,
       "Reading":"シャ；うつ",
-      "Kanji":"写",
+      "Prompt":"写",
       "Examples":[
          {
             "Definition":"photograph",
@@ -9049,7 +9049,7 @@
       "Definition":"true; reality",
       "Lesson":17,
       "Reading":"シン；ま",
-      "Kanji":"真",
+      "Prompt":"真",
       "Examples":[
          {
             "Definition":"photograph",
@@ -9087,7 +9087,7 @@
       "Definition":"to walk",
       "Lesson":17,
       "Reading":"ある；ホ；ポ",
-      "Kanji":"歩",
+      "Prompt":"歩",
       "Examples":[
          {
             "Definition":"to walk",
@@ -9115,7 +9115,7 @@
       "Definition":"field",
       "Lesson":17,
       "Reading":"ヤ；の",
-      "Kanji":"野",
+      "Prompt":"野",
       "Examples":[
          {
             "Definition":"realm; field",
@@ -9163,7 +9163,7 @@
       "Definition":"eye",
       "Lesson":18,
       "Reading":"モク；め",
-      "Kanji":"目",
+      "Prompt":"目",
       "Examples":[
          {
             "Definition":"first line",
@@ -9211,7 +9211,7 @@
       "Definition":"target; -ish",
       "Lesson":18,
       "Reading":"テキ；まと",
-      "Kanji":"的",
+      "Prompt":"的",
       "Examples":[
          {
             "Definition":"purpose",
@@ -9239,7 +9239,7 @@
       "Definition":"power",
       "Lesson":18,
       "Reading":"ちから；リョク；リキ",
-      "Kanji":"力",
+      "Prompt":"力",
       "Examples":[
          {
             "Definition":"physical labor such as construction",
@@ -9272,7 +9272,7 @@
       "Definition":"ocean; overseas",
       "Lesson":18,
       "Reading":"ヨウ",
-      "Kanji":"洋",
+      "Prompt":"洋",
       "Examples":[
          {
             "Definition":"Western clothes",
@@ -9310,7 +9310,7 @@
       "Definition":"clothes",
       "Lesson":18,
       "Reading":"フク",
-      "Kanji":"服",
+      "Prompt":"服",
       "Examples":[
          {
             "Definition":"Western clothes",
@@ -9348,7 +9348,7 @@
       "Definition":"hall",
       "Lesson":18,
       "Reading":"ドウ",
-      "Kanji":"堂",
+      "Prompt":"堂",
       "Examples":[
          {
             "Definition":"dining room",
@@ -9361,7 +9361,7 @@
       "Definition":"to instruct",
       "Lesson":18,
       "Reading":"ジュ；さずか",
-      "Kanji":"授",
+      "Prompt":"授",
       "Examples":[
          {
             "Definition":"class",
@@ -9389,7 +9389,7 @@
       "Definition":"business; vocation",
       "Lesson":18,
       "Reading":"ギョウ",
-      "Kanji":"業",
+      "Prompt":"業",
       "Examples":[
          {
             "Definition":"class",
@@ -9482,7 +9482,7 @@
       "Definition":"test; to try",
       "Lesson":18,
       "Reading":"シ；こころ",
-      "Kanji":"試",
+      "Prompt":"試",
       "Examples":[
          {
             "Definition":"exam",
@@ -9515,7 +9515,7 @@
       "Definition":"to examine",
       "Lesson":18,
       "Reading":"ケン",
-      "Kanji":"験",
+      "Prompt":"験",
       "Examples":[
          {
             "Definition":"exam",
@@ -9548,7 +9548,7 @@
       "Definition":"to lend; load",
       "Lesson":18,
       "Reading":"か；タイ",
-      "Kanji":"貸",
+      "Prompt":"貸",
       "Examples":[
          {
             "Definition":"to lend",
@@ -9571,7 +9571,7 @@
       "Definition":"drawing; to devise",
       "Lesson":18,
       "Reading":"ト；ズ；はか",
-      "Kanji":"図",
+      "Prompt":"図",
       "Examples":[
          {
             "Definition":"library",
@@ -9594,7 +9594,7 @@
       "Definition":"building; hall",
       "Lesson":18,
       "Reading":"カン",
-      "Kanji":"館",
+      "Prompt":"館",
       "Examples":[
          {
             "Definition":"movie theater",
@@ -9637,7 +9637,7 @@
       "Definition":"end",
       "Lesson":18,
       "Reading":"お；シュウ",
-      "Kanji":"終",
+      "Prompt":"終",
       "Examples":[
          {
             "Definition":"to come to an end",
@@ -9670,7 +9670,7 @@
       "Definition":"inn; to lodge in",
       "Lesson":18,
       "Reading":"シュク；やど",
-      "Kanji":"宿",
+      "Prompt":"宿",
       "Examples":[
          {
             "Definition":"homework",
@@ -9693,7 +9693,7 @@
       "Definition":"title; topic",
       "Lesson":18,
       "Reading":"ダイ",
-      "Kanji":"題",
+      "Prompt":"題",
       "Examples":[
          {
             "Definition":"homework",
@@ -9711,7 +9711,7 @@
       "Definition":"spring",
       "Lesson":19,
       "Reading":"はる；シュン",
-      "Kanji":"春",
+      "Prompt":"春",
       "Examples":[
          {
             "Definition":"spring",
@@ -9739,7 +9739,7 @@
       "Definition":"autumn",
       "Lesson":19,
       "Reading":"あき；シュウ",
-      "Kanji":"秋",
+      "Prompt":"秋",
       "Examples":[
          {
             "Definition":"autumn",
@@ -9767,7 +9767,7 @@
       "Definition":"winter",
       "Lesson":19,
       "Reading":"ふゆ；トウ",
-      "Kanji":"冬",
+      "Prompt":"冬",
       "Examples":[
          {
             "Definition":"winter",
@@ -9790,7 +9790,7 @@
       "Definition":"flower",
       "Lesson":19,
       "Reading":"はな；カ",
-      "Kanji":"花",
+      "Prompt":"花",
       "Examples":[
          {
             "Definition":"flower",
@@ -9813,7 +9813,7 @@
       "Definition":"Mr.; Ms.; condition",
       "Lesson":19,
       "Reading":"さま；ヨウ",
-      "Kanji":"様",
+      "Prompt":"様",
       "Examples":[
          {
             "Definition":"Mr./Ms.",
@@ -9831,7 +9831,7 @@
       "Definition":"negative; non-",
       "Lesson":19,
       "Reading":"フ；ブ",
-      "Kanji":"不",
+      "Prompt":"不",
       "Examples":[
          {
             "Definition":"uneasy",
@@ -9849,7 +9849,7 @@
       "Definition":"older sister",
       "Lesson":19,
       "Reading":"あね；ねえ；シ",
-      "Kanji":"姉",
+      "Prompt":"姉",
       "Examples":[
          {
             "Definition":"older sister",
@@ -9867,7 +9867,7 @@
       "Definition":"older brother",
       "Lesson":19,
       "Reading":"あに；にい；キョウ；ケイ",
-      "Kanji":"兄",
+      "Prompt":"兄",
       "Examples":[
          {
             "Definition":"older brother",
@@ -9890,7 +9890,7 @@
       "Definition":"China",
       "Lesson":19,
       "Reading":"カン",
-      "Kanji":"漢",
+      "Prompt":"漢",
       "Examples":[
          {
             "Definition":"Chinese character",
@@ -9908,7 +9908,7 @@
       "Definition":"to graduate",
       "Lesson":19,
       "Reading":"ソツ",
-      "Kanji":"卒",
+      "Prompt":"卒",
       "Examples":[
          {
             "Definition":"to graduate",
@@ -9941,7 +9941,7 @@
       "Definition":"craft; construction",
       "Lesson":19,
       "Reading":"コウ；ク",
-      "Kanji":"工",
+      "Prompt":"工",
       "Examples":[
          {
             "Definition":"engineering",
@@ -9979,7 +9979,7 @@
       "Definition":"to polish; study",
       "Lesson":19,
       "Reading":"ケン；と",
-      "Kanji":"研",
+      "Prompt":"研",
       "Examples":[
          {
             "Definition":"research",
@@ -10007,7 +10007,7 @@
       "Definition":"research",
       "Lesson":19,
       "Reading":"キュウ；きわ",
-      "Kanji":"究",
+      "Prompt":"究",
       "Examples":[
          {
             "Definition":"research",
@@ -10035,7 +10035,7 @@
       "Definition":"quality; matter",
       "Lesson":19,
       "Reading":"シツ；シチ",
-      "Kanji":"質",
+      "Prompt":"質",
       "Examples":[
          {
             "Definition":"question",
@@ -10053,7 +10053,7 @@
       "Definition":"question",
       "Lesson":19,
       "Reading":"モン；と",
-      "Kanji":"問",
+      "Prompt":"問",
       "Examples":[
          {
             "Definition":"problem; issue",
@@ -10081,7 +10081,7 @@
       "Definition":"many; much",
       "Lesson":19,
       "Reading":"おお；タ",
-      "Kanji":"多",
+      "Prompt":"多",
       "Examples":[
          {
             "Definition":"many",
@@ -10099,7 +10099,7 @@
       "Definition":"plate",
       "Lesson":20,
       "Reading":"さら；ざら",
-      "Kanji":"皿",
+      "Prompt":"皿",
       "Examples":[
          {
             "Definition":"plate; dish",
@@ -10112,7 +10112,7 @@
       "Definition":"voice",
       "Lesson":20,
       "Reading":"こえ；セイ",
-      "Kanji":"声",
+      "Prompt":"声",
       "Examples":[
          {
             "Definition":"voice",
@@ -10125,7 +10125,7 @@
       "Definition":"tea",
       "Lesson":20,
       "Reading":"チャ；サ",
-      "Kanji":"茶",
+      "Prompt":"茶",
       "Examples":[
          {
             "Definition":"Japanese tea",
@@ -10158,7 +10158,7 @@
       "Definition":"to stop",
       "Lesson":20,
       "Reading":"と；シ",
-      "Kanji":"止",
+      "Prompt":"止",
       "Examples":[
          {
             "Definition":"(something) stops",
@@ -10176,7 +10176,7 @@
       "Definition":"sheet of ...",
       "Lesson":20,
       "Reading":"マイ",
-      "Kanji":"枚",
+      "Prompt":"枚",
       "Examples":[
          {
             "Definition":"one sheet",
@@ -10189,7 +10189,7 @@
       "Definition":"both",
       "Lesson":20,
       "Reading":"リョウ",
-      "Kanji":"両",
+      "Prompt":"両",
       "Examples":[
          {
             "Definition":"parents",
@@ -10217,7 +10217,7 @@
       "Definition":"none",
       "Lesson":20,
       "Reading":"ム；ブ；な",
-      "Kanji":"無",
+      "Prompt":"無",
       "Examples":[
          {
             "Definition":"impossible",
@@ -10240,7 +10240,7 @@
       "Definition":"to pay",
       "Lesson":20,
       "Reading":"はら；ばら",
-      "Kanji":"払",
+      "Prompt":"払",
       "Examples":[
          {
             "Definition":"to pay",
@@ -10263,7 +10263,7 @@
       "Definition":"heart; mind",
       "Lesson":20,
       "Reading":"こころ；シン",
-      "Kanji":"心",
+      "Prompt":"心",
       "Examples":[
          {
             "Definition":"relief",
@@ -10321,7 +10321,7 @@
       "Definition":"to laugh",
       "Lesson":20,
       "Reading":"わら；え；ショウ",
-      "Kanji":"笑",
+      "Prompt":"笑",
       "Examples":[
          {
             "Definition":"to laugh",
@@ -10344,7 +10344,7 @@
       "Definition":"to discontinue",
       "Lesson":20,
       "Reading":"ゼッ；た；ゼツ",
-      "Kanji":"絶",
+      "Prompt":"絶",
       "Examples":[
          {
             "Definition":"definitely",
@@ -10362,7 +10362,7 @@
       "Definition":"opposite",
       "Lesson":20,
       "Reading":"タイ；ツイ",
-      "Kanji":"対",
+      "Prompt":"対",
       "Examples":[
          {
             "Definition":"definitely",
@@ -10405,7 +10405,7 @@
       "Definition":"pain",
       "Lesson":20,
       "Reading":"いた；ツウ",
-      "Kanji":"痛",
+      "Prompt":"痛",
       "Examples":[
          {
             "Definition":"painful",
@@ -10423,7 +10423,7 @@
       "Definition":"utmost",
       "Lesson":20,
       "Reading":"サイ；もっと",
-      "Kanji":"最",
+      "Prompt":"最",
       "Examples":[
          {
             "Definition":"the worst",
@@ -10456,7 +10456,7 @@
       "Definition":"to continue",
       "Lesson":20,
       "Reading":"つづ；ゾク",
-      "Kanji":"続",
+      "Prompt":"続",
       "Examples":[
          {
             "Definition":"to continue",
@@ -10484,7 +10484,7 @@
       "Definition":"to trust; to believe in",
       "Lesson":21,
       "Reading":"シン",
-      "Kanji":"信",
+      "Prompt":"信",
       "Examples":[
          {
             "Definition":"to believe",
@@ -10527,7 +10527,7 @@
       "Definition":"to pass through",
       "Lesson":21,
       "Reading":"ケイ",
-      "Kanji":"経",
+      "Prompt":"経",
       "Examples":[
          {
             "Definition":"experience",
@@ -10555,7 +10555,7 @@
       "Definition":"stand",
       "Lesson":21,
       "Reading":"タイ；ダイ",
-      "Kanji":"台",
+      "Prompt":"台",
       "Examples":[
          {
             "Definition":"kitchen",
@@ -10598,7 +10598,7 @@
       "Definition":"wind",
       "Lesson":21,
       "Reading":"フウ；かぜ",
-      "Kanji":"風",
+      "Prompt":"風",
       "Examples":[
          {
             "Definition":"typoon",
@@ -10631,7 +10631,7 @@
       "Definition":"dog",
       "Lesson":21,
       "Reading":"いぬ；ケン",
-      "Kanji":"犬",
+      "Prompt":"犬",
       "Examples":[
          {
             "Definition":"dog",
@@ -10644,7 +10644,7 @@
       "Definition":"first",
       "Lesson":21,
       "Reading":"はじ；ショ；はつ",
-      "Kanji":"初",
+      "Prompt":"初",
       "Examples":[
          {
             "Definition":"at first",
@@ -10677,7 +10677,7 @@
       "Definition":"young",
       "Lesson":21,
       "Reading":"わか",
-      "Kanji":"若",
+      "Prompt":"若",
       "Examples":[
          {
             "Definition":"young",
@@ -10690,7 +10690,7 @@
       "Definition":"to send",
       "Lesson":21,
       "Reading":"おく；ソウ",
-      "Kanji":"送",
+      "Prompt":"送",
       "Examples":[
          {
             "Definition":"to send; to drop someone off",
@@ -10728,7 +10728,7 @@
       "Definition":"happiness",
       "Lesson":21,
       "Reading":"しあわ；コウ；さいわ",
-      "Kanji":"幸",
+      "Prompt":"幸",
       "Examples":[
          {
             "Definition":"happy",
@@ -10746,7 +10746,7 @@
       "Definition":"to measure",
       "Lesson":21,
       "Reading":"ケイ；はか",
-      "Kanji":"計",
+      "Prompt":"計",
       "Examples":[
          {
             "Definition":"watch",
@@ -10784,7 +10784,7 @@
       "Definition":"late",
       "Lesson":21,
       "Reading":"おく；おそ；チ",
-      "Kanji":"遅",
+      "Prompt":"遅",
       "Examples":[
          {
             "Definition":"to be late",
@@ -10802,7 +10802,7 @@
       "Definition":"to deliver",
       "Lesson":21,
       "Reading":"パイ；くば；ハイ",
-      "Kanji":"配",
+      "Prompt":"配",
       "Examples":[
          {
             "Definition":"to worry",
@@ -10830,7 +10830,7 @@
       "Definition":"young brother",
       "Lesson":21,
       "Reading":"おとうと；ダイ；デ",
-      "Kanji":"弟",
+      "Prompt":"弟",
       "Examples":[
          {
             "Definition":"younger brother",
@@ -10848,7 +10848,7 @@
       "Definition":"young sister",
       "Lesson":21,
       "Reading":"いもうと；マイ",
-      "Kanji":"妹",
+      "Prompt":"妹",
       "Examples":[
          {
             "Definition":"younger sister",
@@ -10861,13 +10861,13 @@
       "Definition":"heavy; to pile up",
       "Lesson":21,
       "Reading":"かさ；シュウ；チョウ",
-      "Kanji":"重"
+      "Prompt":"重"
    },
    {
       "Definition":"to write down",
       "Lesson":22,
       "Reading":"キ",
-      "Kanji":"記",
+      "Prompt":"記",
       "Examples":[
          {
             "Definition":"diary",
@@ -10905,7 +10905,7 @@
       "Definition":"silver",
       "Lesson":22,
       "Reading":"ギン",
-      "Kanji":"銀",
+      "Prompt":"銀",
       "Examples":[
          {
             "Definition":"silver",
@@ -10928,7 +10928,7 @@
       "Definition":"...times; to turn",
       "Lesson":22,
       "Reading":"カイ；まわ",
-      "Kanji":"回",
+      "Prompt":"回",
       "Examples":[
          {
             "Definition":"rotating sushi",
@@ -10956,7 +10956,7 @@
       "Definition":"evening",
       "Lesson":22,
       "Reading":"ゆう",
-      "Kanji":"夕",
+      "Prompt":"夕",
       "Examples":[
          {
             "Definition":"evening",
@@ -10974,7 +10974,7 @@
       "Definition":"black",
       "Lesson":22,
       "Reading":"くろ；コク",
-      "Kanji":"黒",
+      "Prompt":"黒",
       "Examples":[
          {
             "Definition":"Mr./Ms. Kuroki",
@@ -11007,7 +11007,7 @@
       "Definition":"task; to use",
       "Lesson":22,
       "Reading":"ヨウ",
-      "Kanji":"用",
+      "Prompt":"用",
       "Examples":[
          {
             "Definition":"\"Occupied\"",
@@ -11100,7 +11100,7 @@
       "Definition":"to keep; to protect",
       "Lesson":22,
       "Reading":"ス；まも；シュ",
-      "Kanji":"守",
+      "Prompt":"守",
       "Examples":[
          {
             "Definition":"absence from home",
@@ -11123,7 +11123,7 @@
       "Definition":"the end of",
       "Lesson":22,
       "Reading":"マツ；まえ",
-      "Kanji":"末",
+      "Prompt":"末",
       "Examples":[
          {
             "Definition":"weekend",
@@ -11136,7 +11136,7 @@
       "Definition":"to wait",
       "Lesson":22,
       "Reading":"ま；まち；タイ",
-      "Kanji":"待",
+      "Prompt":"待",
       "Examples":[
          {
             "Definition":"to wait",
@@ -11159,7 +11159,7 @@
       "Definition":"to remain",
       "Lesson":22,
       "Reading":"ザン；この",
-      "Kanji":"残",
+      "Prompt":"残",
       "Examples":[
          {
             "Definition":"over-time work",
@@ -11192,7 +11192,7 @@
       "Definition":"order; number",
       "Lesson":22,
       "Reading":"バン",
-      "Kanji":"番",
+      "Prompt":"番",
       "Examples":[
          {
             "Definition":"answering machine",
@@ -11245,7 +11245,7 @@
       "Definition":"station",
       "Lesson":22,
       "Reading":"エキ",
-      "Kanji":"駅",
+      "Prompt":"駅",
       "Examples":[
          {
             "Definition":"station",
@@ -11268,7 +11268,7 @@
       "Definition":"theory; to explain",
       "Lesson":22,
       "Reading":"セツ；セッ",
-      "Kanji":"説",
+      "Prompt":"説",
       "Examples":[
          {
             "Definition":"explanation",
@@ -11306,7 +11306,7 @@
       "Definition":"idea; proposal",
       "Lesson":22,
       "Reading":"アン",
-      "Kanji":"案",
+      "Prompt":"案",
       "Examples":[
          {
             "Definition":"to guide",
@@ -11339,7 +11339,7 @@
       "Definition":"inside; inner",
       "Lesson":22,
       "Reading":"ナイ",
-      "Kanji":"内",
+      "Prompt":"内",
       "Examples":[
          {
             "Definition":"to guide",
@@ -11362,7 +11362,7 @@
       "Definition":"to forget",
       "Lesson":22,
       "Reading":"わす；ボウ",
-      "Kanji":"忘",
+      "Prompt":"忘",
       "Examples":[
          {
             "Definition":"to forget",
@@ -11385,7 +11385,7 @@
       "Definition":"face",
       "Lesson":23,
       "Reading":"かお；がお；ガン",
-      "Kanji":"顔",
+      "Prompt":"顔",
       "Examples":[
          {
             "Definition":"face",
@@ -11418,7 +11418,7 @@
       "Definition":"emotion; condition",
       "Lesson":23,
       "Reading":"ジョウ；なさ",
-      "Kanji":"情",
+      "Prompt":"情",
       "Examples":[
          {
             "Definition":"facial expression",
@@ -11456,7 +11456,7 @@
       "Definition":"to get angry",
       "Lesson":23,
       "Reading":"おこ；いか；ド",
-      "Kanji":"怒",
+      "Prompt":"怒",
       "Examples":[
          {
             "Definition":"to get angry",
@@ -11469,7 +11469,7 @@
       "Definition":"change; abnormal",
       "Lesson":23,
       "Reading":"ヘン；か",
-      "Kanji":"変",
+      "Prompt":"変",
       "Examples":[
          {
             "Definition":"strange",
@@ -11512,7 +11512,7 @@
       "Definition":"mutual",
       "Lesson":23,
       "Reading":"あい；ショウ；ソウ",
-      "Kanji":"相",
+      "Prompt":"相",
       "Examples":[
          {
             "Definition":"partner",
@@ -11540,7 +11540,7 @@
       "Definition":"sideways",
       "Lesson":23,
       "Reading":"よこ；オウ",
-      "Kanji":"横",
+      "Prompt":"横",
       "Examples":[
          {
             "Definition":"side",
@@ -11568,7 +11568,7 @@
       "Definition":"to compare",
       "Lesson":23,
       "Reading":"くら；ヒ",
-      "Kanji":"比",
+      "Prompt":"比",
       "Examples":[
          {
             "Definition":"to compare",
@@ -11601,7 +11601,7 @@
       "Definition":"to change into",
       "Lesson":23,
       "Reading":"カ；ば；ケ",
-      "Kanji":"化",
+      "Prompt":"化",
       "Examples":[
          {
             "Definition":"change",
@@ -11634,7 +11634,7 @@
       "Definition":"to differ",
       "Lesson":23,
       "Reading":"ちが；イ",
-      "Kanji":"違",
+      "Prompt":"違",
       "Examples":[
          {
             "Definition":"different",
@@ -11667,7 +11667,7 @@
       "Definition":"sad",
       "Lesson":23,
       "Reading":"かな；ヒ",
-      "Kanji":"悲",
+      "Prompt":"悲",
       "Examples":[
          {
             "Definition":"sad",
@@ -11690,7 +11690,7 @@
       "Definition":"to investigate",
       "Lesson":23,
       "Reading":"チョウ；しら",
-      "Kanji":"調",
+      "Prompt":"調",
       "Examples":[
          {
             "Definition":"survey; research",
@@ -11723,7 +11723,7 @@
       "Definition":"to inspect",
       "Lesson":23,
       "Reading":"サ",
-      "Kanji":"査",
+      "Prompt":"査",
       "Examples":[
          {
             "Definition":"survey; research",
@@ -11741,7 +11741,7 @@
       "Definition":"fruit; result",
       "Lesson":23,
       "Reading":"カ；は",
-      "Kanji":"果",
+      "Prompt":"果",
       "Examples":[
          {
             "Definition":"result",
@@ -11774,7 +11774,7 @@
       "Definition":"to sense; to feel",
       "Lesson":23,
       "Reading":"カン",
-      "Kanji":"感",
+      "Prompt":"感",
       "Examples":[
          {
             "Definition":"emotion",
@@ -11807,7 +11807,7 @@
       "Definition":"answer",
       "Lesson":23,
       "Reading":"こた；こたえ；トウ",
-      "Kanji":"答",
+      "Prompt":"答",
       "Examples":[
          {
             "Definition":"to answer",

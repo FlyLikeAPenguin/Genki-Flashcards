@@ -103,7 +103,7 @@ class App extends Component {
         />
         <div className="cardRow">
           <Card
-            Kanji={this.state.currentCard?.Kanji}
+            Prompt={this.state.currentCard?.Prompt}
             Definition={this.state.currentCard?.Definition}
             Reading={this.state.currentCard?.Reading}
           />

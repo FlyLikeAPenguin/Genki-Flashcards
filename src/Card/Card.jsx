@@ -5,7 +5,7 @@ const Card = (props) => (
   <div className="card">
     <div className="card-inner">
       <div className="card-front">
-        <div className="kanji">{props.Kanji}</div>
+        <div className="kanji">{props.Prompt}</div>
       </div>
 
       <div className="card-back">
