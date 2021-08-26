@@ -15,9 +15,11 @@ class App extends Component {
     super(props);
     this.updateCard = this.updateCard.bind(this);
     this.toggleAllLessons = this.toggleAllLessons.bind(this);
+    this.flipCard = this.flipCard.bind(this);
 
     this.state = {
       currentCard: {},
+      isFlipped: false,
 
       lessons: lessonNumbers.map((n) => ({
         number: n,
@@ -64,20 +66,35 @@ class App extends Component {
     return card;
   }
 
+  flipCard(flipState) {
+    this.setState({ isFlipped: flipState });
+  }
+
   updateCard() {
-    this.setState({
-      currentCard: this.getRandomCard(),
-    });
+    // If we're currently flipped, flip the card back so that the user doesn't see the answer.
+    // Delay getting the new card until the animation has finished.
+    // If we're not flipped, we can get the card immediately
+    if (this.state.isFlipped) {
+      this.flipCard(false);
+      setTimeout(() => {
+        this.setState({
+          currentCard: this.getRandomCard(),
+        });
+      }, 200);
+    } else {
+      this.setState({
+        currentCard: this.getRandomCard(),
+      });
+    }
   }
 
   componentDidMount() {
     const persistState = localStorage.getItem("active-lessons");
-    console.log(persistState);
     if (persistState) {
       try {
         this.setActiveLessons(JSON.parse(persistState).map((x) => x.number));
       } catch (e) {
-        // is not json
+        console.log("Error parsing local storage.");
       }
     }
     this.setState({
@@ -101,15 +118,19 @@ class App extends Component {
           lessons={this.state.lessons}
           toggleAllLessons={this.toggleAllLessons}
         />
-        <div className="cardRow">
-          <Card
-            Prompt={this.state.currentCard?.Prompt}
-            Definition={this.state.currentCard?.Definition}
-            Reading={this.state.currentCard?.Reading}
-          />
-        </div>
-        <div className="buttonRow">
-          <DrawButton drawCard={this.updateCard} />
+        <div className="card-controls">
+          <div className="card-row">
+            <Card
+              Prompt={this.state.currentCard?.Prompt}
+              Definition={this.state.currentCard?.Definition}
+              Reading={this.state.currentCard?.Reading}
+              flipCard={this.flipCard}
+              isFlipped={this.state.isFlipped}
+            />
+          </div>
+          <div className="button-row">
+            <DrawButton drawCard={this.updateCard} />
+          </div>
         </div>
       </div>
     );

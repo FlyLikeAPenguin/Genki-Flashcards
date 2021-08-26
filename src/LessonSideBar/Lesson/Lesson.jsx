@@ -23,9 +23,9 @@ class Lesson extends Component {
       <li className="lesson-list-item" onClick={this.toggleClass}>
         Lesson {this.props.lesson.number}
         {this.state.lesson.active ? (
-          <MdDone className="icon" />
+          <MdDone className="lesson-icon" />
         ) : (
-          <MdClear className="icon" />
+          <MdClear className="lesson-icon" />
         )}
       </li>
     );

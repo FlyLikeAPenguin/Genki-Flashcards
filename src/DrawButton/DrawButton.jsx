@@ -12,7 +12,7 @@ class DrawButton extends Component {
     this.props.drawCard();
   }
 
-  render(props) {
+  render() {
     return (
       <div className="buttonContainer">
         <button className="btn" onClick={this.drawCard}>

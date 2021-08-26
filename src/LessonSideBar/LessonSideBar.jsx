@@ -13,7 +13,7 @@ class LessonSideBar extends Component {
 
   render() {
     return (
-      <div>
+      <div className="side-bar">
         <ul className="side-lessons">
           <li
             className="lesson-list-item"

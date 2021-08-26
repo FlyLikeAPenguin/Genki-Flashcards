@@ -1,19 +1,38 @@
-import React from "react";
+import React, { Component } from "react";
 import "./Card.css";
-
-const Card = (props) => (
-  <div className="card">
-    <div className="card-inner">
-      <div className="card-front">
-        <div className="kanji">{props.Prompt}</div>
-      </div>
-
-      <div className="card-back">
-        <div className="reading">{props.Reading}</div>
-        <div className="definition">{props.Definition}</div>
-      </div>
-    </div>
-  </div>
-);
+import Flippy, { FrontSide, BackSide } from "react-flippy";
+class Card extends Component {
+  render() {
+    return (
+      <Flippy
+        flipDirection="horizontal"
+        className="card"
+        isFlipped={this.props.isFlipped}
+        flipOnClick={false}
+        onClick={() => this.props.flipCard(!this.props.isFlipped)}>
+        <FrontSide
+          style={{
+            background: "rgb(189, 197, 201)",
+            borderRadius: "25px",
+            boxShadow: "2em 1em 1em rgba(0, 0, 0, 0.2)",
+            padding: "0px",
+            display: "block",
+          }}>
+          <div className="kanji">{this.props.Prompt}</div>
+        </FrontSide>
+        <BackSide
+          style={{
+            background: "rgb(189, 197, 201)",
+            borderRadius: "25px",
+            boxShadow: "2em 1em 1em rgba(0, 0, 0, 0.2)",
+            padding: "0px",
+          }}>
+          <div className="reading">{this.props.Reading}</div>
+          <div className="definition">{this.props.Definition}</div>
+        </BackSide>
+      </Flippy>
+    );
+  }
+}
 
 export default Card;

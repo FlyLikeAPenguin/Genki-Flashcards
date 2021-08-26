@@ -1,14 +1,35 @@
-.side-lessons {
-  width: 200px;
-  position: fixed;
-  height: 100%;
-  overflow-x: hidden;
-  padding-top: 10px;
-  list-style-type: none;
-  background-color: rgb(57, 61, 66);
-  margin-top: auto;
-}
+@media only screen and (max-width: 1150px) {
+  .side-bar {
+    width: 100%;
+    position: absolute;
+    height: 25%;
+    overflow-x: hidden;
+    background-color: rgb(57, 61, 66);
+  }
 
+  .side-lessons {
+    list-style-type: none;
+    height: 85%;
+    width: 80%;
+    text-align: center;
+  }
+}
+/* For desktop */
+@media only screen and (min-width: 1150px) {
+  .side-bar {
+    width: 18vw;
+    position: absolute;
+    height: 100%;
+    overflow-x: hidden;
+    background-color: rgb(57, 61, 66);
+  }
+
+  .side-lessons {
+    list-style-type: none;
+    height: 85%;
+    padding-inline-start: 40px;
+  }
+}
 .side-lessons::-webkit-scrollbar {
   width: 12px; /* width of the entire scrollbar */
 }
