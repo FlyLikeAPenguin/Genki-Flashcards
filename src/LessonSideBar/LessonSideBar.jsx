@@ -21,7 +21,11 @@ class LessonSideBar extends Component {
             {this.props.activeLessons.length === 0 ? "All" : "None"}
           </li>
           {this.state.lessons.map((lesson) => (
-            <Lesson key={lesson.number} lesson={lesson} />
+            <Lesson
+              key={lesson.number}
+              lesson={lesson}
+              saveLessons={this.props.saveLessons}
+            />
           ))}
         </ul>
       </div>

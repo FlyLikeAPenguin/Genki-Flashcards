@@ -16,6 +16,7 @@ class Lesson extends Component {
     const currentLesson = this.state.lesson;
     currentLesson.active = !currentLesson.active;
     this.setState({ lesson: currentLesson });
+    this.props.saveLessons();
   }
 
   render() {

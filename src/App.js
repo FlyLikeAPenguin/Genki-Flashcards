@@ -16,6 +16,7 @@ class App extends Component {
     this.updateCard = this.updateCard.bind(this);
     this.toggleAllLessons = this.toggleAllLessons.bind(this);
     this.flipCard = this.flipCard.bind(this);
+    this.saveActiveLessons = this.saveActiveLessons.bind(this);
 
     this.state = {
       currentCard: {},
@@ -114,6 +115,10 @@ class App extends Component {
   }
 
   componentDidUpdate() {
+    this.saveActiveLessons();
+  }
+
+  saveActiveLessons() {
     localStorage.setItem(
       "active-lessons",
       JSON.stringify(this.activeLessons())
@@ -128,6 +133,7 @@ class App extends Component {
           activeLessons={this.activeLessons()}
           lessons={this.state.lessons}
           toggleAllLessons={this.toggleAllLessons}
+          saveLessons={this.saveActiveLessons}
         />
         <div className="card-controls">
           <div className="card-row">
