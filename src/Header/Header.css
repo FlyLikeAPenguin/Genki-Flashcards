@@ -20,13 +20,14 @@
 }
 
 .icon {
-  vertical-align: baseline;
-  font-size: 1.3rem;
+  vertical-align: text-bottom;
+  font-size: 1.1rem;
+  padding-bottom: 3px;
 }
 
 .topnav-right {
   float: right;
-  padding-right: 2rem;
+  padding-right: 1rem;
   font-weight: normal;
 }
 
@@ -34,5 +35,9 @@
   font-weight: lighter;
   color: #d3d0d0;
   text-decoration: none;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
+}
+
+a {
+  margin-left: 8px;
 }
