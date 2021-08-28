@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Genki Flashcards",
+  "name": "Genki Flashcards made in React.js",
   "icons": [
     {
       "src": "favicon.ico",

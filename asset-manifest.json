@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Flashcards/static/css/main.98d27e3c.chunk.css",
-    "main.js": "/React-Flashcards/static/js/main.19025e75.chunk.js",
-    "main.js.map": "/React-Flashcards/static/js/main.19025e75.chunk.js.map",
-    "runtime-main.js": "/React-Flashcards/static/js/runtime-main.487aa84c.js",
-    "runtime-main.js.map": "/React-Flashcards/static/js/runtime-main.487aa84c.js.map",
-    "static/js/2.d2904331.chunk.js": "/React-Flashcards/static/js/2.d2904331.chunk.js",
-    "static/js/2.d2904331.chunk.js.map": "/React-Flashcards/static/js/2.d2904331.chunk.js.map",
-    "static/js/3.2085f514.chunk.js": "/React-Flashcards/static/js/3.2085f514.chunk.js",
-    "static/js/3.2085f514.chunk.js.map": "/React-Flashcards/static/js/3.2085f514.chunk.js.map",
-    "index.html": "/React-Flashcards/index.html",
-    "static/css/main.98d27e3c.chunk.css.map": "/React-Flashcards/static/css/main.98d27e3c.chunk.css.map",
-    "static/js/2.d2904331.chunk.js.LICENSE.txt": "/React-Flashcards/static/js/2.d2904331.chunk.js.LICENSE.txt"
+    "main.css": "/Genki-Flashcards/static/css/main.98d27e3c.chunk.css",
+    "main.js": "/Genki-Flashcards/static/js/main.7c410601.chunk.js",
+    "main.js.map": "/Genki-Flashcards/static/js/main.7c410601.chunk.js.map",
+    "runtime-main.js": "/Genki-Flashcards/static/js/runtime-main.a58e1653.js",
+    "runtime-main.js.map": "/Genki-Flashcards/static/js/runtime-main.a58e1653.js.map",
+    "static/js/2.2ad5012b.chunk.js": "/Genki-Flashcards/static/js/2.2ad5012b.chunk.js",
+    "static/js/2.2ad5012b.chunk.js.map": "/Genki-Flashcards/static/js/2.2ad5012b.chunk.js.map",
+    "static/js/3.ebb38641.chunk.js": "/Genki-Flashcards/static/js/3.ebb38641.chunk.js",
+    "static/js/3.ebb38641.chunk.js.map": "/Genki-Flashcards/static/js/3.ebb38641.chunk.js.map",
+    "index.html": "/Genki-Flashcards/index.html",
+    "static/css/main.98d27e3c.chunk.css.map": "/Genki-Flashcards/static/css/main.98d27e3c.chunk.css.map",
+    "static/js/2.2ad5012b.chunk.js.LICENSE.txt": "/Genki-Flashcards/static/js/2.2ad5012b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.487aa84c.js",
-    "static/js/2.d2904331.chunk.js",
+    "static/js/runtime-main.a58e1653.js",
+    "static/js/2.2ad5012b.chunk.js",
     "static/css/main.98d27e3c.chunk.css",
-    "static/js/main.19025e75.chunk.js"
+    "static/js/main.7c410601.chunk.js"
   ]
 }
