@@ -41,7 +41,7 @@ class App extends Component {
   }
 
   toggleAllLessons() {
-    // If we currently have no active lessons, make them all active.
+    // If we currently have no active lessons, make them all active, otherwise disable them all.
     const active = this.activeLessons().length === 0;
     this.state.lessons.forEach((x) => (x.active = active));
     this.updateCard();
@@ -57,10 +57,21 @@ class App extends Component {
       .map((x) => x.cards)
       .flat();
 
+    if (currentCards.length === 0) {
+      // If no cards are active, return here.
+      return null;
+    } else if (currentCards.length === 1) {
+      // If there's only one card active, we always want to return that one.
+      // Eliminates potential stack overflow later.
+      return currentCards[0];
+    }
+
+    // If we have multiple cards to choose from, randomly select one.
     var randomIndex = Math.floor(Math.random() * currentCards.length);
     var card = currentCards[randomIndex];
-    if (card === this.state.currentCard && card != null) {
-      this.getRandomCard();
+    // If we've picked the same card again, try to find a new card.
+    if (card === this.state.currentCard) {
+      return this.getRandomCard();
     }
 
     return card;

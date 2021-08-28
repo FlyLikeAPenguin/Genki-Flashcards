@@ -18,7 +18,7 @@ class Card extends Component {
             padding: "0px",
             display: "block",
           }}>
-          <div className="kanji">{this.props.Prompt}</div>
+          <div className="kanji noSelect">{this.props.Prompt}</div>
         </FrontSide>
         <BackSide
           style={{
@@ -27,8 +27,8 @@ class Card extends Component {
             boxShadow: "2em 1em 1em rgba(0, 0, 0, 0.2)",
             padding: "0px",
           }}>
-          <div className="reading">{this.props.Reading}</div>
-          <div className="definition">{this.props.Definition}</div>
+          <div className="reading noSelect">{this.props.Reading}</div>
+          <div className="definition noSelect">{this.props.Definition}</div>
         </BackSide>
       </Flippy>
     );

@@ -3,6 +3,10 @@
   width: 80vw;
   height: 80vw;
   margin: auto;
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
 }
 .kanji {
   color: #333;
@@ -16,12 +20,20 @@
 
 .reading {
   color: #333;
-  font-size: 6.3em;
+  font-size: 10vw;
+  width: 80vw;
+  height: 40vw;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 .definition {
   color: #333;
-  font-size: 4em;
+  font-size: 7vw;
+  width: 80vw;
+  height: 40vw;
+  display: table-row;
+  vertical-align: middle;
 }
 
 @media only screen and (min-width: 1150px) {
@@ -39,6 +51,24 @@
     height: 40vw;
     font-size: 17.5vw;
     display: table-cell;
+    vertical-align: middle;
+  }
+
+  .reading {
+    color: #333;
+    font-size: 5vw;
+    width: 40vw;
+    height: 20vw;
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  .definition {
+    color: #333;
+    font-size: 3vw;
+    width: 40vw;
+    height: 20vw;
+    display: table-row;
     vertical-align: middle;
   }
 }
@@ -60,4 +90,32 @@
     display: table-cell;
     vertical-align: middle;
   }
+
+  .reading {
+    color: #333;
+    font-size: 5vw;
+    width: 30vw;
+    height: 15vw;
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  .definition {
+    color: #333;
+    font-size: 3vw;
+    width: 30vw;
+    height: 15vw;
+    display: table-row;
+    vertical-align: middle;
+  }
+}
+
+.noSelect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
