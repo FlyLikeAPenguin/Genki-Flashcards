@@ -1,8 +1,8 @@
 {
-  "name": "react-flashcards",
+  "name": "genki-flashcards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://flylikeapenguin.github.io/React-Flashcards/",
+  "homepage": "https://flylikeapenguin.github.io/Genki-Flashcards/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
