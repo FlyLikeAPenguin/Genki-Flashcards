@@ -10,7 +10,7 @@ The flashcards are grouped by the corresponding lesson in the textbook and can e
 - To have the user's lesson selection persist between sessions.
 - To be mobile friendly.
 - To be able to be hosted on github pages.
-- ~~To use Google's firbase to serve the data.~~ Decided against due to the need to authenticate or have potential cost.
+- ~~To use Google's firebase to serve the data.~~ Decided against due to the need to authenticate or have potential cost.
 
 ## Special Thanks
 
